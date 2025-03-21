@@ -8,15 +8,16 @@ COPY requirements.txt requirements.txt
 # Install the dependencies specified in the requirements.txt file
 RUN pip install -r requirements.txt
 
-# Copy the application files into the container
-# COPY . /app
+#Copy the application files into the container
+COPY . /app
 
 # Copy all the files into the container
-COPY . .
+# COPY . .
 
 
 # Expose the port
-EXPOSE 5001
+EXPOSE 8080
 
 # Command to run the app using Gunicorn
-CMD ["gunicorn", "--workers", "3", "--bind", "0.0.0.0:8080", "wsgi:app"]
+# CMD ["gunicorn", "--workers", "3", "--bind", "0.0.0.0:8080", "wsgi:app"]
+CMD ["python3", "app.py"]
