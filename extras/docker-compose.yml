@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    ports:
+      - "5001:5001"
+    networks:
+      - energy_network
+    environment:
+      - FLASK_ENV=production
+
+networks:
+  energy_network:
+    driver: bridge
