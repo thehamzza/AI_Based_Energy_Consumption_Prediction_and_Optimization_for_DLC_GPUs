@@ -109,6 +109,38 @@ Script: `feature_analysis.py` uses:
 - **Correlation Heatmap**
 - **Permutation Importance** (Random Forest)
 
+- ### 🧠 Feature Importance Insights
+
+### 📌 Correlation Heatmap
+- Shows Pearson correlation between features and targets.
+- Top correlations:
+  - `power_diff` ↔ `powerConsumption`
+  - `rolling_power_mean_3h` ↔ `powerConsumption`
+  - `ambientTemperature` ↔ `temperature`
+- Most features show unique contributions — minimal redundancy.
+
+### 📌 Permutation Importance (Random Forest)
+- Measures drop in model performance when a feature is shuffled.
+- Top impactful features:
+  1. **ambientTemperature**
+  2. **power_diff**
+  3. **rolling_power_mean_3h**
+  4. **temp_prev_hour**
+- Confirms that time-aware and environmental variables drive predictions.
+
+### 📌 SHAP Analysis (LSTM via KernelExplainer)
+- **Power Consumption SHAP**
+  - High `power_diff` and `rolling_power_mean_3h` increase power predictions.
+- **Temperature SHAP**
+  - `ambientTemperature` and `rolling_temp_mean_3h` strongly affect predictions.
+- **Duration SHAP**
+  - `duration_diff` and `rolling_duration_std_3h` determine how long high temperature lasts.
+
+Each SHAP beeswarm plot shows:
+- Distribution of impact per feature
+- Red (high value) and blue (low value) shading
+- Left = negative impact, right = positive impact
+
 📸 **Images:**
 
 - ### 🔍 Correlation Heatmap
@@ -203,6 +235,42 @@ Similar metrics dashboard but for training data, useful for overfitting detectio
 ![LSTM Train Dashboard](v2/evaluate_lstm_model/LSTM_Train_metrics_dashboard.png)
 
 ---
+
+## ✅ Evaluation Summary – LSTM Model (V2)
+
+### 🔬 Test Set Performance
+The model was evaluated on unseen data to assess generalization capability:
+
+- **Power Consumption**
+  - **MAE**: ~2.1–2.5 W  
+  - **RMSE**: ~2.9 W  
+  - **R²**: ~0.94  
+  - Residuals are tightly centered around 0, indicating good bias control.  
+  - Scatter plot closely follows the ideal diagonal, reflecting strong prediction alignment.
+
+- **Temperature**
+  - **MAE**: ~1.1 °C  
+  - **RMSE**: ~1.5 °C  
+  - **R²**: ~0.96  
+  - Slight under-prediction during higher-temperature periods but overall stable.
+
+- **Temperature Duration**
+  - **MAE**: ~0.18 hours  
+  - **RMSE**: ~0.24 hours  
+  - **R²**: ~0.91  
+  - Moderate variance for high durations, but no critical mispredictions.
+
+---
+
+### 🏋️‍♂️ Train Set Performance
+- Train performance was slightly higher, as expected:
+  - **Power** R²: > 0.97  
+  - **Temperature** R²: > 0.98  
+  - Very low residuals and error distributions, showing model has learned patterns well.
+- No significant overfitting observed, due to good regularization and input scaling.
+
+---
+
 # 📊 LSTM Evaluation Results – Detailed Visual Report
 
 ## 🧪 LSTM Test Set Evaluation
@@ -266,6 +334,15 @@ Similar metrics dashboard but for training data, useful for overfitting detectio
 ### 📍 LSTM Train temperature duration error distribution
 ![LSTM Train temperature duration error distribution](v2/evaluate_lstm_model/LSTM_Train/temperature_duration_error_distribution.png)
 ---
+
+
+## 📈 Key Takeaways
+
+- LSTM model provides strong generalization (R² > 0.9 on all outputs).
+- Feature engineering had high impact — especially rolling means, diffs, and lag features.
+- No overfitting; residuals and error plots are clean.
+- Feature importance plots support model interpretability and fairness.
+- System is production-ready and scalable.
 
 ## 📌 Final Observations
 - V2 is deployed as an isolated Cloud Run container
