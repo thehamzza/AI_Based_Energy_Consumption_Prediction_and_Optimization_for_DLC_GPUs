@@ -179,6 +179,19 @@ This image presents a conceptual design of the user-facing dashboard where real-
 ```
 ---
 
+## 🧠 Model Architecture – LSTM
+
+The LSTM model (`train_lstm_model.py`) is trained with a 3-step time window to predict:
+- Power Consumption
+- Core Temperature
+- Duration of elevated temperature
+
+- **Model File**: `lstm_device_energy_model.h5`
+- **Scaler**: `lstm_scaler.pkl`
+
+![Lstm Model Architecture Diagram](v2/lstm_model_architecture.png)
+----
+
 ## ⚙️ Feature Engineering
 
 - **Script**: `feature_engineering.py`
@@ -193,17 +206,6 @@ This script transforms raw data into feature-rich sequences including:
 - Time features: hour, day, weekend/night
 
 ![Feature Engineering Diagram](v2/feature%20engineering.png)
-
-## 🧠 Model Architecture – LSTM
-
-The LSTM model (`train_lstm_model.py`) is trained with a 3-step time window to predict:
-- Power Consumption
-- Core Temperature
-- Duration of elevated temperature
-
-- **Model File**: `lstm_device_energy_model.h5`
-- **Scaler**: `lstm_scaler.pkl`
-
 
 ---
 
