@@ -149,9 +149,11 @@ Script: `shap_lstm_explain.py` produces SHAP explanations for each target variab
 }
 ```
 
-## 🖥 Dashboard Preview
-📸 **Image:** `GUI AI DLC.png`
-This dashboard visual presents model predictions and user uploads, suitable for internal monitoring or client reporting.
+### 📊 Dashboard UI Preview
+
+This image presents a conceptual design of the user-facing dashboard where predictions from the model can be visualized and compared over time.
+
+![GUI Dashboard](v2/GUI%20AI%20DLC.png)
 
 ## 📌 Final Observations
 - V2 is deployed as an isolated Cloud Run container
