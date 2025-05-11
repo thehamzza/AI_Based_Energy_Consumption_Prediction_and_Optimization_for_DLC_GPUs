@@ -27,31 +27,53 @@ project-root/
 ├── train_lstm_model.py                # LSTM training script
 ├── train_model.py                     # Deprecated/general training logic
 ├── utils.py                           # Reusable helper functions
+
+evaluate_lstm_model/
+├── LSTM_Test/
+    ├── LSTM_Test_powerConsumption_pred_vs_actual.png
+    ├── LSTM_Test_powerConsumption_residuals.png
+    ├── LSTM_Test_powerConsumption_error_distribution.png
+    ├── LSTM_Test_temperature_pred_vs_actual.png
+    ├── LSTM_Test_temperature_residuals.png
+    ├── LSTM_Test_temperature_error_distribution.png
+    ├── LSTM_Test_temperature_duration_pred_vs_actual.png
+    ├── LSTM_Test_temperature_duration_residuals.png
+    ├── LSTM_Test_temperature_duration_error_distribution.png
+    ├── LSTM_Test_metrics_dashboard.png
+├── LSTM_Train/
+    ├── LSTM_Train_powerConsumption_pred_vs_actual.png
+    ├── LSTM_Train_powerConsumption_residuals.png
+    ├── LSTM_Train_powerConsumption_error_distribution.png
+    ├── LSTM_Train_temperature_pred_vs_actual.png
+    ├── LSTM_Train_temperature_residuals.png
+    ├── LSTM_Train_temperature_error_distribution.png
+    ├── LSTM_Train_temperature_duration_pred_vs_actual.png
+    ├── LSTM_Train_temperature_duration_residuals.png
+    ├── LSTM_Train_temperature_duration_error_distribution.png
+    ├── LSTM_Train_metrics_dashboard.png
+
+├── feature_analysis_results/
+    ├── correlation_heatmap.png
+    ├── permutation_importance.png
+    ├── shap_beeswarm_plot.png
+    ├── shap_lstm_outputs/
+        ├── shap_lstm_duration.png
+        ├── shap_lstm_power.png
+        ├── shap_lstm_temperature.png
 │
-├── evaluate_lstm_model/               # Model evaluation outputs
-│   ├── LSTM_Test_powerConsumption_pred_vs_actual.png
-│   ├── LSTM_Test_powerConsumption_residuals.png
-│   ├── LSTM_Test_powerConsumption_error_distribution.png
-│   ├── LSTM_Test_temperature_pred_vs_actual.png
-│   ├── LSTM_Test_temperature_residuals.png
-│   ├── LSTM_Test_temperature_error_distribution.png
-│   ├── LSTM_Test_temperature_duration_pred_vs_actual.png
-│   ├── LSTM_Test_temperature_duration_residuals.png
-│   ├── LSTM_Test_temperature_duration_error_distribution.png
-│
-├── feature_analysis_results/          # Feature importance & SHAP visualizations
-│   ├── correlation_heatmap.png
-│   ├── permutation_importance.png
-│   ├── shap_lstm_power.png
-│   ├── shap_lstm_temperature.png
-│   ├── shap_lstm_duration.png
-│
-└── v2/                                # GitHub branch / working directory
+└── v2/   # GitHub branch / working directory
     ├── All above core files listed above were synced from this directory
     └── Note: mirrors final state of project folder for v2 branch
 ```
 
 Each Python script, model file, and image plays a specific role in the **end-to-end AI pipeline** for device energy prediction.
+
+## 📊 Dashboard UI Preview
+
+This image presents a conceptual design of the user-facing dashboard where real-time predictions can be visualized.
+
+![GUI Dashboard](v2/GUI%20AI%20DLC.png)
+
 
 ## ⚙️ Feature Engineering
 
@@ -66,8 +88,7 @@ This script transforms raw data into feature-rich sequences including:
 - Difference features (diff)
 - Time features: hour, day, weekend/night
 
-📸 **Figure**: `feature engineering.png`
-This image visualizes the complete feature transformation pipeline from raw device logs to model-ready inputs.
+![Feature Engineering Diagram](v2/feature%20engineering.png)
 
 ## 🧠 Model Architecture – LSTM
 
@@ -86,6 +107,22 @@ Script: `evaluate_lstm_model.py` generates 3 kinds of plots for each output:
 - **Residuals**
 - **Error Distribution**
 
+---
+### 📊 Evaluation Dashboard — LSTM (Test Data)
+
+Shows MAE, RMSE, and R² for power, temperature, and duration predictions on test data.
+
+![LSTM Test Dashboard](v2/evaluate_lstm_model/LSTM_Test_metrics_dashboard.png)
+
+---
+
+### 📊 Evaluation Dashboard — LSTM (Train Data)
+
+Similar metrics dashboard but for training data, useful for overfitting detection.
+
+![LSTM Train Dashboard](v2/evaluate_lstm_model/LSTM_Train_metrics_dashboard.png)
+
+---
 
 Each plot embeds evaluation metrics (MAE, RMSE, R²) for clarity.
 
@@ -173,11 +210,6 @@ Analyzes how each feature influences predicted duration of elevated temperature 
 }
 ```
 
-### 📊 Dashboard UI Preview
-
-This image presents a conceptual design of the user-facing dashboard where predictions from the model can be visualized and compared over time.
-
-![GUI Dashboard](v2/GUI%20AI%20DLC.png)
 
 ## 📌 Final Observations
 - V2 is deployed as an isolated Cloud Run container
