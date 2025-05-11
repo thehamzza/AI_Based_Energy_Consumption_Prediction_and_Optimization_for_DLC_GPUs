@@ -188,7 +188,7 @@ Script: `evaluate_lstm_model.py` generates 3 kinds of plots for each output:
 - **Error Distribution**
 
 ---
-### 📊 Evaluation Dashboard — LSTM (Test Data)
+### 📊 Evaluation Combined Metrics Dashboard — LSTM (Test Data)
 
 Shows MAE, RMSE, and R² for power, temperature, and duration predictions on test data.
 
@@ -196,7 +196,7 @@ Shows MAE, RMSE, and R² for power, temperature, and duration predictions on tes
 
 ---
 
-### 📊 Evaluation Dashboard — LSTM (Train Data)
+### 📊 Evaluation Combined Metrics Dashboard — LSTM (Train Data)
 
 Similar metrics dashboard but for training data, useful for overfitting detection.
 
@@ -207,69 +207,65 @@ Similar metrics dashboard but for training data, useful for overfitting detectio
 
 ## 🧪 LSTM Test Set Evaluation
 
-### 📉 Combined Metrics Dashboard
-![LSTM Test Dashboard](evaluate_lstm_model/LSTM_Test_metrics_dashboard.png)
-
 ### 📍 LSTM Test powerConsumption pred vs actual
-![LSTM Test powerConsumption pred vs actual](evaluate_lstm_model/LSTM_Test_powerConsumption_pred_vs_actual.png)
+![LSTM Test powerConsumption pred vs actual](v2/evaluate_lstm_model/LSTM_Test/powerConsumption_pred_vs_actual.png)
 
 ### 📍 LSTM Test powerConsumption residuals
-![LSTM Test powerConsumption residuals](evaluate_lstm_model/LSTM_Test_powerConsumption_residuals.png)
+![LSTM Test powerConsumption residuals](v2/evaluate_lstm_model/LSTM_Test/powerConsumption_residuals.png)
 
 ### 📍 LSTM Test powerConsumption error distribution
-![LSTM Test powerConsumption error distribution](evaluate_lstm_model/LSTM_Test_powerConsumption_error_distribution.png)
+![LSTM Test powerConsumption error distribution](v2/evaluate_lstm_model/LSTM_Test/powerConsumption_error_distribution.png)
 
 ### 📍 LSTM Test temperature pred vs actual
-![LSTM Test temperature pred vs actual](evaluate_lstm_model/LSTM_Test_temperature_pred_vs_actual.png)
+![LSTM Test temperature pred vs actual](v2/evaluate_lstm_model/LSTM_Test/temperature_pred_vs_actual.png)
 
 ### 📍 LSTM Test temperature residuals
-![LSTM Test temperature residuals](evaluate_lstm_model/LSTM_Test_temperature_residuals.png)
+![LSTM Test temperature residuals](v2/evaluate_lstm_model/LSTM_Test/temperature_residuals.png)
 
 ### 📍 LSTM Test temperature error distribution
-![LSTM Test temperature error distribution](evaluate_lstm_model/LSTM_Test_temperature_error_distribution.png)
+![LSTM Test temperature error distribution](v2/evaluate_lstm_model/LSTM_Test/temperature_error_distribution.png)
 
 ### 📍 LSTM Test temperature duration pred vs actual
-![LSTM Test temperature duration pred vs actual](evaluate_lstm_model/LSTM_Test_temperature_duration_pred_vs_actual.png)
+![LSTM Test temperature duration pred vs actual](v2/evaluate_lstm_model/LSTM_Test/temperature_duration_pred_vs_actual.png)
 
 ### 📍 LSTM Test temperature duration residuals
-![LSTM Test temperature duration residuals](evaluate_lstm_model/LSTM_Test_temperature_duration_residuals.png)
+![LSTM Test temperature duration residuals](v2/evaluate_lstm_model/LSTM_Test/temperature_duration_residuals.png)
 
 ### 📍 LSTM Test temperature duration error distribution
-![LSTM Test temperature duration error distribution](evaluate_lstm_model/LSTM_Test_temperature_duration_error_distribution.png)
+![LSTM Test temperature duration error distribution](v2/evaluate_lstm_model/LSTM_Test/temperature_duration_error_distribution.png)
+
+---
 
 ## 🏋️‍♂️ LSTM Train Set Evaluation
 
-### 📉 Combined Metrics Dashboard
-![LSTM Train Dashboard](evaluate_lstm_model/LSTM_Train_metrics_dashboard.png)
 
 ### 📍 LSTM Train powerConsumption pred vs actual
-![LSTM Train powerConsumption pred vs actual](evaluate_lstm_model/LSTM_Train_powerConsumption_pred_vs_actual.png)
+![LSTM Train powerConsumption pred vs actual](v2/evaluate_lstm_model/LSTM_Train/powerConsumption_pred_vs_actual.png)
 
 ### 📍 LSTM Train powerConsumption residuals
-![LSTM Train powerConsumption residuals](evaluate_lstm_model/LSTM_Train_powerConsumption_residuals.png)
+![LSTM Train powerConsumption residuals](v2/evaluate_lstm_model/LSTM_Train/powerConsumption_residuals.png)
 
 ### 📍 LSTM Train powerConsumption error distribution
-![LSTM Train powerConsumption error distribution](evaluate_lstm_model/LSTM_Train_powerConsumption_error_distribution.png)
+![LSTM Train powerConsumption error distribution](v2/evaluate_lstm_model/LSTM_Train/powerConsumption_error_distribution.png)
 
 ### 📍 LSTM Train temperature pred vs actual
-![LSTM Train temperature pred vs actual](evaluate_lstm_model/LSTM_Train_temperature_pred_vs_actual.png)
+![LSTM Train temperature pred vs actual](v2/evaluate_lstm_model/LSTM_Train/temperature_pred_vs_actual.png)
 
 ### 📍 LSTM Train temperature residuals
-![LSTM Train temperature residuals](evaluate_lstm_model/LSTM_Train_temperature_residuals.png)
+![LSTM Train temperature residuals](v2/evaluate_lstm_model/LSTM_Train/temperature_residuals.png)
 
 ### 📍 LSTM Train temperature error distribution
-![LSTM Train temperature error distribution](evaluate_lstm_model/LSTM_Train_temperature_error_distribution.png)
+![LSTM Train temperature error distribution](v2/evaluate_lstm_model/LSTM_Train/temperature_error_distribution.png)
 
 ### 📍 LSTM Train temperature duration pred vs actual
-![LSTM Train temperature duration pred vs actual](evaluate_lstm_model/LSTM_Train_temperature_duration_pred_vs_actual.png)
+![LSTM Train temperature duration pred vs actual](v2/evaluate_lstm_model/LSTM_Train/temperature_duration_pred_vs_actual.png)
 
 ### 📍 LSTM Train temperature duration residuals
-![LSTM Train temperature duration residuals](evaluate_lstm_model/LSTM_Train_temperature_duration_residuals.png)
+![LSTM Train temperature duration residuals](v2/evaluate_lstm_model/LSTM_Train/temperature_duration_residuals.png)
 
 ### 📍 LSTM Train temperature duration error distribution
-![LSTM Train temperature duration error distribution](evaluate_lstm_model/LSTM_Train_temperature_duration_error_distribution.png)
-
-
+![LSTM Train temperature duration error distribution](v2/evaluate_lstm_model/LSTM_Train/temperature_duration_error_distribution.png)
+---
 
 ## 📌 Final Observations
 - V2 is deployed as an isolated Cloud Run container
