@@ -74,6 +74,106 @@ This image presents a conceptual design of the user-facing dashboard where real-
 
 ![GUI Dashboard](v2/GUI%20AI%20DLC.png)
 
+---
+
+# 🌐 API – Live Endpoint Details
+
+- **Live Endpoint:** [Device Energy API V2](https://device-energy-api-v2-255530078026.us-central1.run.app/)
+- **Prediction Endpoint:** `/predict`
+- **Method**: `POST`
+- **Content-Type**: `application/json`
+
+---
+
+### 🔁 Example Input JSON (Realistic Randomized Data):
+
+```json
+[
+  {
+    "ambientTemperature": 24.2,
+    "powerConsumption": 118.7,
+    "workLoadType": 2,
+    "hour_of_day": 9,
+    "day_of_week": 1,
+    "month_of_year": 5,
+    "device_on": 1,
+    "open_duration": 1.0,
+    "power_prev_hour": 115.5,
+    "temp_prev_hour": 43.3,
+    "duration_prev_hour": 0.9,
+    "rolling_power_mean_3h": 116.0,
+    "rolling_temp_mean_3h": 42.5,
+    "rolling_duration_mean_3h": 0.95,
+    "rolling_power_std_3h": 1.2,
+    "rolling_temp_std_3h": 0.7,
+    "rolling_duration_std_3h": 0.3,
+    "power_diff": 3.2,
+    "temp_diff": 0.8,
+    "duration_diff": 0.2,
+    "is_weekend": 0,
+    "is_night": 0
+  },
+  {
+    "ambientTemperature": 24.9,
+    "powerConsumption": 121.0,
+    "workLoadType": 2,
+    "hour_of_day": 10,
+    "day_of_week": 1,
+    "month_of_year": 5,
+    "device_on": 1,
+    "open_duration": 1.2,
+    "power_prev_hour": 118.7,
+    "temp_prev_hour": 44.0,
+    "duration_prev_hour": 1.0,
+    "rolling_power_mean_3h": 118.0,
+    "rolling_temp_mean_3h": 43.6,
+    "rolling_duration_mean_3h": 1.05,
+    "rolling_power_std_3h": 1.5,
+    "rolling_temp_std_3h": 0.6,
+    "rolling_duration_std_3h": 0.25,
+    "power_diff": 2.3,
+    "temp_diff": 0.7,
+    "duration_diff": 0.3,
+    "is_weekend": 0,
+    "is_night": 0
+  },
+  {
+    "ambientTemperature": 25.1,
+    "powerConsumption": 123.4,
+    "workLoadType": 2,
+    "hour_of_day": 11,
+    "day_of_week": 1,
+    "month_of_year": 5,
+    "device_on": 1,
+    "open_duration": 1.3,
+    "power_prev_hour": 121.0,
+    "temp_prev_hour": 44.8,
+    "duration_prev_hour": 1.2,
+    "rolling_power_mean_3h": 121.0,
+    "rolling_temp_mean_3h": 44.1,
+    "rolling_duration_mean_3h": 1.15,
+    "rolling_power_std_3h": 1.8,
+    "rolling_temp_std_3h": 0.5,
+    "rolling_duration_std_3h": 0.2,
+    "power_diff": 2.4,
+    "temp_diff": 0.8,
+    "duration_diff": 0.1,
+    "is_weekend": 0,
+    "is_night": 0
+  }
+]
+```
+
+### 🔁 Example Output JSON:
+
+```json
+{
+  "core_temperature": 64.32,
+  "predicted_power_consumption": 119.84,
+  "temperature_duration": 1.75
+}
+```
+---
 
 ## ⚙️ Feature Engineering
 
@@ -177,40 +277,7 @@ Visualizes feature impact on core temperature predictions. Strong contributors i
 Analyzes how each feature influences predicted duration of elevated temperature in the device.
 
 ![SHAP Duration](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_duration.png)
-
 ---
-
-## 🌐 API – Live Endpoint Details
-
-- **Live Endpoint:** [Device Energy API V2](https://device-energy-api-v2-255530078026.us-central1.run.app/)
-
-- **Prediction Endpoint:** `/predict`
-
-- **Method**: `POST`
-
-### 🔁 Input JSON Format:
-```json
-[
-  {
-    "ambientTemperature": 21.5,
-    "powerConsumption": 110.0,
-    "workLoadType": 1,
-    ... (20+ features)
-  },
-  { ... },
-  { ... }
-]
-```
-
-### ✅ Example Output:
-```json
-{
-  "core_temperature": 62.68,
-  "predicted_power_consumption": 97.55,
-  "temperature_duration": 2.36
-}
-```
-----
 
 ## 📊 Evaluation Outputs
 
