@@ -79,7 +79,11 @@ This image presents a conceptual design of the user-facing dashboard where real-
 # 🌐 API – Live Endpoint Details
 
 - **Live Endpoint:** [Device Energy API V2](https://device-energy-api-v2-255530078026.us-central1.run.app/)
+- link: https://device-energy-api-v2-255530078026.us-central1.run.app/
+
 - **Prediction Endpoint:** `/predict`
+- link: https://device-energy-api-v2-255530078026.us-central1.run.app/predict
+
 - **Method**: `POST`
 - **Content-Type**: `application/json`
 
