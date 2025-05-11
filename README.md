@@ -7,22 +7,48 @@ This document provides a **comprehensive breakdown** of the V2 implementation, i
 ```text
 project-root/
 │
-├── app.py                             # Flask API application
-├── evaluate_lstm_model.py            # Model evaluation and visualization
-├── feature_engineering.py            # Feature generation and transformation
-├── train_lstm_model.py               # LSTM model training
-├── shap_lstm_explain.py              # SHAP explanation for LSTM
-├── feature_analysis.py               # Correlation + Permutation importance
-├── generate_gpu_data.py              # Synthetic GPU data generator
-├── generate_refrigerator_data.py     # Synthetic refrigerator data generator
-├── infer_local.py                    # Manual inference testing script
-├── utils.py                          # Utility functions for preprocessing
-├── requirements.txt                  # Dependency list
-├── Dockerfile                        # For containerized deployment on Cloud Run
-├── *.json, *.pkl, *.h5               # Data, model weights, and scalers
-├── feature_analysis_results/         # SHAP, correlation & importance images
-├── evaluate_lstm_model/              # Evaluation plots (actual vs predicted)
-└── GUI AI DLC.png                    # UI/UX preview of dashboard
+├── app.py                             # Flask API (main endpoint)
+├── device_energy_prediction_api.md    # API documentation (markdown)
+├── Dockerfile                         # For Cloud Run deployment
+├── evaluate_lstm_model.py             # Evaluates model and plots results
+├── feature_engineering.py             # Adds rolling stats, lag features etc.
+├── generate_gpu_data.py               # Generates synthetic GPU JSON data
+├── generate_refrigerator_data.py      # Generates synthetic refrigerator data
+├── gpu_energy_model.h5                # Pretrained GPU model (v1)
+├── gpu_synthetic_data.json            # Synthetic data (GPU type)
+├── GUI AI DLC.png                     # Mockup of front-end dashboard
+├── infer_local.py                     # Run inference locally for testing
+├── lstm_device_energy_model.h5        # Final trained LSTM model weights
+├── lstm_scaler.pkl                    # Feature scaler (used in app.py)
+├── refrigerator_synthetic_data.json   # Synthetic data (Refrigerator type)
+├── requirements.txt                   # All required Python libraries
+├── scaler_features.pkl                # Backup of scaler for features
+├── shap_lstm_explain.py               # SHAP explanations for LSTM predictions
+├── train_lstm_model.py                # LSTM training script
+├── train_model.py                     # Deprecated/general training logic
+├── utils.py                           # Reusable helper functions
+│
+├── evaluate_lstm_model/               # Model evaluation outputs
+│   ├── LSTM_Test_powerConsumption_pred_vs_actual.png
+│   ├── LSTM_Test_powerConsumption_residuals.png
+│   ├── LSTM_Test_powerConsumption_error_distribution.png
+│   ├── LSTM_Test_temperature_pred_vs_actual.png
+│   ├── LSTM_Test_temperature_residuals.png
+│   ├── LSTM_Test_temperature_error_distribution.png
+│   ├── LSTM_Test_temperature_duration_pred_vs_actual.png
+│   ├── LSTM_Test_temperature_duration_residuals.png
+│   ├── LSTM_Test_temperature_duration_error_distribution.png
+│
+├── feature_analysis_results/          # Feature importance & SHAP visualizations
+│   ├── correlation_heatmap.png
+│   ├── permutation_importance.png
+│   ├── shap_lstm_power.png
+│   ├── shap_lstm_temperature.png
+│   ├── shap_lstm_duration.png
+│
+└── v2/                                # GitHub branch / working directory
+    ├── All above core files listed above were synced from this directory
+    └── Note: mirrors final state of project folder for v2 branch
 ```
 
 Each Python script, model file, and image plays a specific role in the **end-to-end AI pipeline** for device energy prediction.
