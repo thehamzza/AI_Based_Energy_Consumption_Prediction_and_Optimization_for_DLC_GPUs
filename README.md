@@ -100,6 +100,86 @@ The LSTM model (`train_lstm_model.py`) is trained with a 3-step time window to p
 - **Model File**: `lstm_device_energy_model.h5`
 - **Scaler**: `lstm_scaler.pkl`
 
+
+---
+
+## 🔬 Feature Importance Analysis
+
+Script: `feature_analysis.py` uses:
+- **Correlation Heatmap**
+- **Permutation Importance** (Random Forest)
+
+📸 **Images:**
+
+- ### 🔍 Correlation Heatmap
+
+This heatmap displays Pearson correlation coefficients between features and targets. Darker shades indicate stronger correlations (positive or negative).
+
+![Correlation Heatmap](v2/feature_analysis_results/correlation_heatmap.png)
+
+- `permutation_importance.png`: Quantifies how much model performance drops if a feature is randomly permuted.
+
+---
+
+### 🔍 Permutation Feature Importance
+
+This bar chart illustrates the relative importance of each input feature based on how shuffling its values affects model performance.
+
+![Permutation Importance](v2/feature_analysis_results/permutation_importance.png)
+
+---
+
+### 🔍 SHAP Beeswarm Plots
+
+#### 🧠 SHAP — Power Consumption
+Highlights which features most influence the model's prediction of power usage. Each dot represents a prediction and color encodes feature value.
+
+![SHAP Power](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_power.png)
+
+#### 🧠 SHAP — Temperature
+Visualizes feature impact on core temperature predictions. Strong contributors include ambient temperature and rolling averages.
+
+![SHAP Temperature](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_temperature.png)
+
+#### 🧠 SHAP — Duration
+Analyzes how each feature influences predicted duration of elevated temperature in the device.
+
+![SHAP Duration](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_duration.png)
+
+---
+
+## 🌐 API – Live Endpoint Details
+
+- **Live Endpoint:** [Device Energy API V2](https://device-energy-api-v2-255530078026.us-central1.run.app/)
+
+- **Prediction Endpoint:** `/predict`
+
+- **Method**: `POST`
+
+### 🔁 Input JSON Format:
+```json
+[
+  {
+    "ambientTemperature": 21.5,
+    "powerConsumption": 110.0,
+    "workLoadType": 1,
+    ... (20+ features)
+  },
+  { ... },
+  { ... }
+]
+```
+
+### ✅ Example Output:
+```json
+{
+  "core_temperature": 62.68,
+  "predicted_power_consumption": 97.55,
+  "temperature_duration": 2.36
+}
+```
+----
+
 ## 📊 Evaluation Outputs
 
 Script: `evaluate_lstm_model.py` generates 3 kinds of plots for each output:
@@ -189,84 +269,6 @@ Similar metrics dashboard but for training data, useful for overfitting detectio
 ### 📍 LSTM Train temperature duration error distribution
 ![LSTM Train temperature duration error distribution](evaluate_lstm_model/LSTM_Train_temperature_duration_error_distribution.png)
 
-
----
-
-## 🔬 Feature Importance Analysis
-
-Script: `feature_analysis.py` uses:
-- **Correlation Heatmap**
-- **Permutation Importance** (Random Forest)
-
-📸 **Images:**
-
-- ### 🔍 Correlation Heatmap
-
-This heatmap displays Pearson correlation coefficients between features and targets. Darker shades indicate stronger correlations (positive or negative).
-
-![Correlation Heatmap](v2/feature_analysis_results/correlation_heatmap.png)
-
-- `permutation_importance.png`: Quantifies how much model performance drops if a feature is randomly permuted.
-
----
-
-### 🔍 Permutation Feature Importance
-
-This bar chart illustrates the relative importance of each input feature based on how shuffling its values affects model performance.
-
-![Permutation Importance](v2/feature_analysis_results/permutation_importance.png)
-
----
-
-### 🔍 SHAP Beeswarm Plots
-
-#### 🧠 SHAP — Power Consumption
-Highlights which features most influence the model's prediction of power usage. Each dot represents a prediction and color encodes feature value.
-
-![SHAP Power](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_power.png)
-
-#### 🧠 SHAP — Temperature
-Visualizes feature impact on core temperature predictions. Strong contributors include ambient temperature and rolling averages.
-
-![SHAP Temperature](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_temperature.png)
-
-#### 🧠 SHAP — Duration
-Analyzes how each feature influences predicted duration of elevated temperature in the device.
-
-![SHAP Duration](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_duration.png)
-
----
-
-## 🌐 API – Live Endpoint Details
-
-- **Live Endpoint:** [Device Energy API V2](https://device-energy-api-v2-255530078026.us-central1.run.app/)
-
-- **Prediction Endpoint:** `/predict`
-
-- **Method**: `POST`
-
-### 🔁 Input JSON Format:
-```json
-[
-  {
-    "ambientTemperature": 21.5,
-    "powerConsumption": 110.0,
-    "workLoadType": 1,
-    ... (20+ features)
-  },
-  { ... },
-  { ... }
-]
-```
-
-### ✅ Example Output:
-```json
-{
-  "core_temperature": 62.68,
-  "predicted_power_consumption": 97.55,
-  "temperature_duration": 2.36
-}
-```
 
 
 ## 📌 Final Observations
