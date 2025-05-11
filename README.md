@@ -123,16 +123,74 @@ Similar metrics dashboard but for training data, useful for overfitting detectio
 ![LSTM Train Dashboard](v2/evaluate_lstm_model/LSTM_Train_metrics_dashboard.png)
 
 ---
+# 📊 LSTM Evaluation Results – Detailed Visual Report
 
-Each plot embeds evaluation metrics (MAE, RMSE, R²) for clarity.
+## 🧪 LSTM Test Set Evaluation
 
-📸 **Evaluation Plots** (Located in `evaluate_lstm_model/`):
+### 📉 Combined Metrics Dashboard
+![LSTM Test Dashboard](evaluate_lstm_model/LSTM_Test_metrics_dashboard.png)
 
-- LSTM_Test_powerConsumption_pred_vs_actual.png
-- LSTM_Test_temperature_residuals.png
-- LSTM_Test_temperature_duration_error_distribution.png
+### 📍 LSTM Test powerConsumption pred vs actual
+![LSTM Test powerConsumption pred vs actual](evaluate_lstm_model/LSTM_Test_powerConsumption_pred_vs_actual.png)
 
-These images **visually assess model performance** and highlight potential bias, variance, or underfitting/overfitting.
+### 📍 LSTM Test powerConsumption residuals
+![LSTM Test powerConsumption residuals](evaluate_lstm_model/LSTM_Test_powerConsumption_residuals.png)
+
+### 📍 LSTM Test powerConsumption error distribution
+![LSTM Test powerConsumption error distribution](evaluate_lstm_model/LSTM_Test_powerConsumption_error_distribution.png)
+
+### 📍 LSTM Test temperature pred vs actual
+![LSTM Test temperature pred vs actual](evaluate_lstm_model/LSTM_Test_temperature_pred_vs_actual.png)
+
+### 📍 LSTM Test temperature residuals
+![LSTM Test temperature residuals](evaluate_lstm_model/LSTM_Test_temperature_residuals.png)
+
+### 📍 LSTM Test temperature error distribution
+![LSTM Test temperature error distribution](evaluate_lstm_model/LSTM_Test_temperature_error_distribution.png)
+
+### 📍 LSTM Test temperature duration pred vs actual
+![LSTM Test temperature duration pred vs actual](evaluate_lstm_model/LSTM_Test_temperature_duration_pred_vs_actual.png)
+
+### 📍 LSTM Test temperature duration residuals
+![LSTM Test temperature duration residuals](evaluate_lstm_model/LSTM_Test_temperature_duration_residuals.png)
+
+### 📍 LSTM Test temperature duration error distribution
+![LSTM Test temperature duration error distribution](evaluate_lstm_model/LSTM_Test_temperature_duration_error_distribution.png)
+
+## 🏋️‍♂️ LSTM Train Set Evaluation
+
+### 📉 Combined Metrics Dashboard
+![LSTM Train Dashboard](evaluate_lstm_model/LSTM_Train_metrics_dashboard.png)
+
+### 📍 LSTM Train powerConsumption pred vs actual
+![LSTM Train powerConsumption pred vs actual](evaluate_lstm_model/LSTM_Train_powerConsumption_pred_vs_actual.png)
+
+### 📍 LSTM Train powerConsumption residuals
+![LSTM Train powerConsumption residuals](evaluate_lstm_model/LSTM_Train_powerConsumption_residuals.png)
+
+### 📍 LSTM Train powerConsumption error distribution
+![LSTM Train powerConsumption error distribution](evaluate_lstm_model/LSTM_Train_powerConsumption_error_distribution.png)
+
+### 📍 LSTM Train temperature pred vs actual
+![LSTM Train temperature pred vs actual](evaluate_lstm_model/LSTM_Train_temperature_pred_vs_actual.png)
+
+### 📍 LSTM Train temperature residuals
+![LSTM Train temperature residuals](evaluate_lstm_model/LSTM_Train_temperature_residuals.png)
+
+### 📍 LSTM Train temperature error distribution
+![LSTM Train temperature error distribution](evaluate_lstm_model/LSTM_Train_temperature_error_distribution.png)
+
+### 📍 LSTM Train temperature duration pred vs actual
+![LSTM Train temperature duration pred vs actual](evaluate_lstm_model/LSTM_Train_temperature_duration_pred_vs_actual.png)
+
+### 📍 LSTM Train temperature duration residuals
+![LSTM Train temperature duration residuals](evaluate_lstm_model/LSTM_Train_temperature_duration_residuals.png)
+
+### 📍 LSTM Train temperature duration error distribution
+![LSTM Train temperature duration error distribution](evaluate_lstm_model/LSTM_Train_temperature_duration_error_distribution.png)
+
+
+---
 
 ## 🔬 Feature Importance Analysis
 
