@@ -1,0 +1,5002 @@
+[
+  {
+    "timestamp": "2025-04-10T11:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.07,
+    "ambientTemperature": 19.6,
+    "internalTemperature": 4.9,
+    "powerConsumption": 60.18,
+    "internal_temperature": 5.84,
+    "temperature_duration": 1.03
+  },
+  {
+    "timestamp": "2025-04-10T11:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.47,
+    "ambientTemperature": 25.97,
+    "internalTemperature": 6.21,
+    "powerConsumption": 62.18,
+    "internal_temperature": 8.28,
+    "temperature_duration": 1.99
+  },
+  {
+    "timestamp": "2025-04-10T11:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.54,
+    "ambientTemperature": 21.39,
+    "internalTemperature": 5.19,
+    "powerConsumption": 69.19,
+    "internal_temperature": 8.64,
+    "temperature_duration": 4.02
+  },
+  {
+    "timestamp": "2025-04-10T11:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.17,
+    "ambientTemperature": 22.73,
+    "internalTemperature": 5.59,
+    "powerConsumption": 71.03,
+    "internal_temperature": 9.32,
+    "temperature_duration": 4.27
+  },
+  {
+    "timestamp": "2025-04-10T11:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.13,
+    "internalTemperature": 3.03,
+    "powerConsumption": 57.61,
+    "internal_temperature": 2.48,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T11:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.33,
+    "internalTemperature": 4.36,
+    "powerConsumption": 58.49,
+    "internal_temperature": 4.56,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T12:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.14,
+    "ambientTemperature": 18.22,
+    "internalTemperature": 2.37,
+    "powerConsumption": 63.49,
+    "internal_temperature": 3.13,
+    "temperature_duration": 2.26
+  },
+  {
+    "timestamp": "2025-04-10T12:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.54,
+    "internalTemperature": 3.09,
+    "powerConsumption": 57.43,
+    "internal_temperature": 3.04,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T12:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.34,
+    "ambientTemperature": 26.6,
+    "internalTemperature": 2.45,
+    "powerConsumption": 73.66,
+    "internal_temperature": 6.57,
+    "temperature_duration": 4.74
+  },
+  {
+    "timestamp": "2025-04-10T12:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.76,
+    "ambientTemperature": 25.3,
+    "internalTemperature": 7.0,
+    "powerConsumption": 76.53,
+    "internal_temperature": 12.45,
+    "temperature_duration": 4.9
+  },
+  {
+    "timestamp": "2025-04-10T12:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.22,
+    "ambientTemperature": 26.0,
+    "internalTemperature": 3.36,
+    "powerConsumption": 71.23,
+    "internal_temperature": 6.83,
+    "temperature_duration": 3.89
+  },
+  {
+    "timestamp": "2025-04-10T12:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.86,
+    "internalTemperature": 6.75,
+    "powerConsumption": 58.37,
+    "internal_temperature": 5.86,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T12:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.12,
+    "internalTemperature": 7.01,
+    "powerConsumption": 58.31,
+    "internal_temperature": 6.99,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T12:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.6,
+    "ambientTemperature": 18.24,
+    "internalTemperature": 7.64,
+    "powerConsumption": 63.79,
+    "internal_temperature": 8.15,
+    "temperature_duration": 1.24
+  },
+  {
+    "timestamp": "2025-04-10T12:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.4,
+    "ambientTemperature": 25.87,
+    "internalTemperature": 4.12,
+    "powerConsumption": 67.12,
+    "internal_temperature": 7.57,
+    "temperature_duration": 3.56
+  },
+  {
+    "timestamp": "2025-04-10T12:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.12,
+    "internalTemperature": 6.49,
+    "powerConsumption": 59.02,
+    "internal_temperature": 7.22,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T12:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.9,
+    "internalTemperature": 5.38,
+    "powerConsumption": 61.53,
+    "internal_temperature": 5.16,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T12:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.61,
+    "internalTemperature": 5.84,
+    "powerConsumption": 60.31,
+    "internal_temperature": 5.18,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T13:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.27,
+    "ambientTemperature": 25.97,
+    "internalTemperature": 3.6,
+    "powerConsumption": 69.05,
+    "internal_temperature": 6.97,
+    "temperature_duration": 3.91
+  },
+  {
+    "timestamp": "2025-04-10T13:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.7,
+    "internalTemperature": 7.34,
+    "powerConsumption": 59.01,
+    "internal_temperature": 7.98,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T13:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.81,
+    "ambientTemperature": 19.7,
+    "internalTemperature": 4.25,
+    "powerConsumption": 75.99,
+    "internal_temperature": 8.25,
+    "temperature_duration": 4.52
+  },
+  {
+    "timestamp": "2025-04-10T13:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.25,
+    "internalTemperature": 2.75,
+    "powerConsumption": 59.26,
+    "internal_temperature": 2.64,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T13:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.51,
+    "ambientTemperature": 21.99,
+    "internalTemperature": 3.51,
+    "powerConsumption": 72.44,
+    "internal_temperature": 8.29,
+    "temperature_duration": 4.4
+  },
+  {
+    "timestamp": "2025-04-10T13:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.5,
+    "ambientTemperature": 25.44,
+    "internalTemperature": 2.1,
+    "powerConsumption": 68.22,
+    "internal_temperature": 6.32,
+    "temperature_duration": 3.6
+  },
+  {
+    "timestamp": "2025-04-10T13:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.44,
+    "internalTemperature": 6.89,
+    "powerConsumption": 58.47,
+    "internal_temperature": 7.66,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T13:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.5,
+    "ambientTemperature": 23.93,
+    "internalTemperature": 4.65,
+    "powerConsumption": 69.97,
+    "internal_temperature": 7.63,
+    "temperature_duration": 3.2
+  },
+  {
+    "timestamp": "2025-04-10T13:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.39,
+    "ambientTemperature": 25.8,
+    "internalTemperature": 5.89,
+    "powerConsumption": 64.82,
+    "internal_temperature": 7.16,
+    "temperature_duration": 2.36
+  },
+  {
+    "timestamp": "2025-04-10T13:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.23,
+    "internalTemperature": 3.26,
+    "powerConsumption": 58.26,
+    "internal_temperature": 3.82,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T13:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.57,
+    "internalTemperature": 5.82,
+    "powerConsumption": 62.99,
+    "internal_temperature": 5.37,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T13:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.02,
+    "internalTemperature": 6.8,
+    "powerConsumption": 58.69,
+    "internal_temperature": 7.29,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T14:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.03,
+    "internalTemperature": 4.53,
+    "powerConsumption": 58.39,
+    "internal_temperature": 4.67,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T14:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.56,
+    "ambientTemperature": 27.05,
+    "internalTemperature": 7.91,
+    "powerConsumption": 69.03,
+    "internal_temperature": 10.15,
+    "temperature_duration": 3.22
+  },
+  {
+    "timestamp": "2025-04-10T14:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.32,
+    "internalTemperature": 4.88,
+    "powerConsumption": 57.22,
+    "internal_temperature": 3.91,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T14:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.14,
+    "internalTemperature": 2.5,
+    "powerConsumption": 60.13,
+    "internal_temperature": 2.43,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T14:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.22,
+    "ambientTemperature": 24.53,
+    "internalTemperature": 6.54,
+    "powerConsumption": 63.77,
+    "internal_temperature": 6.78,
+    "temperature_duration": 1.89
+  },
+  {
+    "timestamp": "2025-04-10T14:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.99,
+    "ambientTemperature": 23.25,
+    "internalTemperature": 4.3,
+    "powerConsumption": 67.38,
+    "internal_temperature": 7.18,
+    "temperature_duration": 2.6
+  },
+  {
+    "timestamp": "2025-04-10T14:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.93,
+    "ambientTemperature": 27.03,
+    "internalTemperature": 7.18,
+    "powerConsumption": 72.34,
+    "internal_temperature": 10.33,
+    "temperature_duration": 4.17
+  },
+  {
+    "timestamp": "2025-04-10T14:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.34,
+    "ambientTemperature": 19.53,
+    "internalTemperature": 4.06,
+    "powerConsumption": 68.71,
+    "internal_temperature": 5.5,
+    "temperature_duration": 2.74
+  },
+  {
+    "timestamp": "2025-04-10T14:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.6,
+    "internalTemperature": 6.1,
+    "powerConsumption": 60.13,
+    "internal_temperature": 5.46,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T14:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.67,
+    "internalTemperature": 2.35,
+    "powerConsumption": 59.83,
+    "internal_temperature": 2.79,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T14:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.84,
+    "internalTemperature": 4.75,
+    "powerConsumption": 57.97,
+    "internal_temperature": 3.86,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T14:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.75,
+    "internalTemperature": 7.69,
+    "powerConsumption": 57.78,
+    "internal_temperature": 7.02,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.61,
+    "ambientTemperature": 23.95,
+    "internalTemperature": 4.85,
+    "powerConsumption": 73.58,
+    "internal_temperature": 8.59,
+    "temperature_duration": 4.04
+  },
+  {
+    "timestamp": "2025-04-10T15:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.07,
+    "ambientTemperature": 23.54,
+    "internalTemperature": 3.66,
+    "powerConsumption": 71.76,
+    "internal_temperature": 8.05,
+    "temperature_duration": 4.23
+  },
+  {
+    "timestamp": "2025-04-10T15:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.55,
+    "internalTemperature": 6.76,
+    "powerConsumption": 62.47,
+    "internal_temperature": 5.8,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.66,
+    "internalTemperature": 7.29,
+    "powerConsumption": 61.63,
+    "internal_temperature": 7.93,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.7,
+    "ambientTemperature": 25.2,
+    "internalTemperature": 5.01,
+    "powerConsumption": 63.73,
+    "internal_temperature": 6.71,
+    "temperature_duration": 1.68
+  },
+  {
+    "timestamp": "2025-04-10T15:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.06,
+    "internalTemperature": 7.09,
+    "powerConsumption": 61.75,
+    "internal_temperature": 7.87,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.29,
+    "internalTemperature": 3.81,
+    "powerConsumption": 59.7,
+    "internal_temperature": 4.58,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.81,
+    "internalTemperature": 2.41,
+    "powerConsumption": 58.66,
+    "internal_temperature": 2.81,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.07,
+    "internalTemperature": 7.59,
+    "powerConsumption": 59.71,
+    "internal_temperature": 7.99,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.85,
+    "ambientTemperature": 21.02,
+    "internalTemperature": 4.33,
+    "powerConsumption": 70.47,
+    "internal_temperature": 8.67,
+    "temperature_duration": 4.14
+  },
+  {
+    "timestamp": "2025-04-10T15:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.35,
+    "internalTemperature": 8.0,
+    "powerConsumption": 61.56,
+    "internal_temperature": 8.09,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T15:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.37,
+    "internalTemperature": 7.66,
+    "powerConsumption": 57.6,
+    "internal_temperature": 6.94,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.84,
+    "internalTemperature": 3.28,
+    "powerConsumption": 62.39,
+    "internal_temperature": 4.17,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.7,
+    "ambientTemperature": 24.16,
+    "internalTemperature": 5.13,
+    "powerConsumption": 63.4,
+    "internal_temperature": 7.34,
+    "temperature_duration": 2.08
+  },
+  {
+    "timestamp": "2025-04-10T16:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.35,
+    "internalTemperature": 5.8,
+    "powerConsumption": 59.38,
+    "internal_temperature": 5.28,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.92,
+    "internalTemperature": 2.79,
+    "powerConsumption": 58.68,
+    "internal_temperature": 3.76,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.5,
+    "internalTemperature": 6.62,
+    "powerConsumption": 59.24,
+    "internal_temperature": 7.01,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.86,
+    "internalTemperature": 7.96,
+    "powerConsumption": 57.3,
+    "internal_temperature": 8.18,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.36,
+    "ambientTemperature": 23.53,
+    "internalTemperature": 4.03,
+    "powerConsumption": 68.36,
+    "internal_temperature": 6.03,
+    "temperature_duration": 2.74
+  },
+  {
+    "timestamp": "2025-04-10T16:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.01,
+    "internalTemperature": 7.75,
+    "powerConsumption": 61.46,
+    "internal_temperature": 7.05,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.69,
+    "internalTemperature": 4.13,
+    "powerConsumption": 59.7,
+    "internal_temperature": 4.9,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.23,
+    "ambientTemperature": 25.3,
+    "internalTemperature": 3.65,
+    "powerConsumption": 70.47,
+    "internal_temperature": 5.9,
+    "temperature_duration": 3.09
+  },
+  {
+    "timestamp": "2025-04-10T16:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.9,
+    "internalTemperature": 7.06,
+    "powerConsumption": 62.78,
+    "internal_temperature": 7.75,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T16:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.56,
+    "ambientTemperature": 27.68,
+    "internalTemperature": 7.73,
+    "powerConsumption": 64.82,
+    "internal_temperature": 9.39,
+    "temperature_duration": 1.62
+  },
+  {
+    "timestamp": "2025-04-10T17:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.23,
+    "ambientTemperature": 26.06,
+    "internalTemperature": 3.25,
+    "powerConsumption": 63.98,
+    "internal_temperature": 4.02,
+    "temperature_duration": 2.29
+  },
+  {
+    "timestamp": "2025-04-10T17:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.86,
+    "internalTemperature": 3.38,
+    "powerConsumption": 61.47,
+    "internal_temperature": 2.93,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T17:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.88,
+    "internalTemperature": 4.73,
+    "powerConsumption": 57.18,
+    "internal_temperature": 4.31,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T17:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.16,
+    "ambientTemperature": 25.83,
+    "internalTemperature": 2.84,
+    "powerConsumption": 74.81,
+    "internal_temperature": 7.39,
+    "temperature_duration": 4.26
+  },
+  {
+    "timestamp": "2025-04-10T17:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.1,
+    "internalTemperature": 2.77,
+    "powerConsumption": 60.03,
+    "internal_temperature": 2.21,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T17:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.31,
+    "internalTemperature": 4.36,
+    "powerConsumption": 62.31,
+    "internal_temperature": 4.07,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T17:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.31,
+    "ambientTemperature": 20.93,
+    "internalTemperature": 6.3,
+    "powerConsumption": 63.59,
+    "internal_temperature": 7.53,
+    "temperature_duration": 1.92
+  },
+  {
+    "timestamp": "2025-04-10T17:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.57,
+    "internalTemperature": 4.43,
+    "powerConsumption": 59.12,
+    "internal_temperature": 4.74,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T17:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.98,
+    "internalTemperature": 5.95,
+    "powerConsumption": 61.02,
+    "internal_temperature": 6.38,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T17:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.63,
+    "ambientTemperature": 19.48,
+    "internalTemperature": 2.17,
+    "powerConsumption": 65.15,
+    "internal_temperature": 2.58,
+    "temperature_duration": 1.65
+  },
+  {
+    "timestamp": "2025-04-10T17:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.37,
+    "ambientTemperature": 24.79,
+    "internalTemperature": 4.69,
+    "powerConsumption": 64.67,
+    "internal_temperature": 6.54,
+    "temperature_duration": 2.75
+  },
+  {
+    "timestamp": "2025-04-10T17:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.13,
+    "ambientTemperature": 23.73,
+    "internalTemperature": 2.66,
+    "powerConsumption": 69.46,
+    "internal_temperature": 4.86,
+    "temperature_duration": 3.05
+  },
+  {
+    "timestamp": "2025-04-10T18:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.69,
+    "ambientTemperature": 23.0,
+    "internalTemperature": 6.87,
+    "powerConsumption": 71.67,
+    "internal_temperature": 12.2,
+    "temperature_duration": 4.88
+  },
+  {
+    "timestamp": "2025-04-10T18:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.21,
+    "internalTemperature": 7.01,
+    "powerConsumption": 60.36,
+    "internal_temperature": 6.75,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T18:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.77,
+    "internalTemperature": 3.76,
+    "powerConsumption": 61.84,
+    "internal_temperature": 2.76,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T18:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.05,
+    "ambientTemperature": 27.64,
+    "internalTemperature": 7.71,
+    "powerConsumption": 58.81,
+    "internal_temperature": 8.64,
+    "temperature_duration": 1.02
+  },
+  {
+    "timestamp": "2025-04-10T18:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.22,
+    "internalTemperature": 3.39,
+    "powerConsumption": 62.17,
+    "internal_temperature": 3.82,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T18:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.31,
+    "internalTemperature": 3.84,
+    "powerConsumption": 58.33,
+    "internal_temperature": 4.05,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T18:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.97,
+    "ambientTemperature": 24.06,
+    "internalTemperature": 5.71,
+    "powerConsumption": 65.22,
+    "internal_temperature": 6.92,
+    "temperature_duration": 2.59
+  },
+  {
+    "timestamp": "2025-04-10T18:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.34,
+    "internalTemperature": 2.66,
+    "powerConsumption": 59.31,
+    "internal_temperature": 3.62,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T18:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.64,
+    "ambientTemperature": 22.0,
+    "internalTemperature": 5.56,
+    "powerConsumption": 65.03,
+    "internal_temperature": 7.72,
+    "temperature_duration": 2.86
+  },
+  {
+    "timestamp": "2025-04-10T18:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.52,
+    "internalTemperature": 2.45,
+    "powerConsumption": 62.85,
+    "internal_temperature": 2.66,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T18:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.22,
+    "internalTemperature": 2.61,
+    "powerConsumption": 58.29,
+    "internal_temperature": 2.65,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T18:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.25,
+    "internalTemperature": 5.1,
+    "powerConsumption": 59.55,
+    "internal_temperature": 4.1,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T19:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.04,
+    "internalTemperature": 6.91,
+    "powerConsumption": 60.76,
+    "internal_temperature": 5.98,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T19:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.42,
+    "internalTemperature": 6.65,
+    "powerConsumption": 62.73,
+    "internal_temperature": 7.41,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T19:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.11,
+    "ambientTemperature": 22.62,
+    "internalTemperature": 7.44,
+    "powerConsumption": 65.97,
+    "internal_temperature": 9.1,
+    "temperature_duration": 2.24
+  },
+  {
+    "timestamp": "2025-04-10T19:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.72,
+    "ambientTemperature": 27.1,
+    "internalTemperature": 3.26,
+    "powerConsumption": 62.49,
+    "internal_temperature": 5.52,
+    "temperature_duration": 2.09
+  },
+  {
+    "timestamp": "2025-04-10T19:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.15,
+    "internalTemperature": 2.06,
+    "powerConsumption": 62.31,
+    "internal_temperature": 2.95,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T19:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.48,
+    "ambientTemperature": 18.14,
+    "internalTemperature": 3.84,
+    "powerConsumption": 61.45,
+    "internal_temperature": 5.08,
+    "temperature_duration": 1.59
+  },
+  {
+    "timestamp": "2025-04-10T19:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.73,
+    "internalTemperature": 7.78,
+    "powerConsumption": 61.74,
+    "internal_temperature": 7.75,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T19:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.95,
+    "ambientTemperature": 26.25,
+    "internalTemperature": 4.1,
+    "powerConsumption": 65.24,
+    "internal_temperature": 7.51,
+    "temperature_duration": 2.98
+  },
+  {
+    "timestamp": "2025-04-10T19:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.42,
+    "ambientTemperature": 26.87,
+    "internalTemperature": 7.41,
+    "powerConsumption": 72.03,
+    "internal_temperature": 12.82,
+    "temperature_duration": 4.77
+  },
+  {
+    "timestamp": "2025-04-10T19:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.9,
+    "internalTemperature": 7.57,
+    "powerConsumption": 61.71,
+    "internal_temperature": 6.79,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T19:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.37,
+    "internalTemperature": 5.0,
+    "powerConsumption": 58.55,
+    "internal_temperature": 5.84,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T19:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.74,
+    "internalTemperature": 7.41,
+    "powerConsumption": 57.4,
+    "internal_temperature": 6.89,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.08,
+    "internalTemperature": 7.1,
+    "powerConsumption": 59.3,
+    "internal_temperature": 7.57,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.43,
+    "internalTemperature": 3.26,
+    "powerConsumption": 62.6,
+    "internal_temperature": 2.42,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.86,
+    "ambientTemperature": 24.3,
+    "internalTemperature": 7.43,
+    "powerConsumption": 66.7,
+    "internal_temperature": 11.3,
+    "temperature_duration": 3.34
+  },
+  {
+    "timestamp": "2025-04-10T20:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.88,
+    "ambientTemperature": 25.47,
+    "internalTemperature": 6.07,
+    "powerConsumption": 64.49,
+    "internal_temperature": 8.09,
+    "temperature_duration": 2.15
+  },
+  {
+    "timestamp": "2025-04-10T20:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.22,
+    "internalTemperature": 4.56,
+    "powerConsumption": 58.24,
+    "internal_temperature": 3.95,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.25,
+    "internalTemperature": 4.07,
+    "powerConsumption": 57.61,
+    "internal_temperature": 4.04,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.68,
+    "internalTemperature": 7.78,
+    "powerConsumption": 57.73,
+    "internal_temperature": 6.93,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.94,
+    "ambientTemperature": 25.16,
+    "internalTemperature": 6.77,
+    "powerConsumption": 66.81,
+    "internal_temperature": 8.9,
+    "temperature_duration": 3.38
+  },
+  {
+    "timestamp": "2025-04-10T20:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.44,
+    "internalTemperature": 5.59,
+    "powerConsumption": 59.01,
+    "internal_temperature": 4.59,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.13,
+    "internalTemperature": 4.81,
+    "powerConsumption": 59.12,
+    "internal_temperature": 5.7,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.17,
+    "internalTemperature": 6.62,
+    "powerConsumption": 58.19,
+    "internal_temperature": 7.31,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T20:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.46,
+    "ambientTemperature": 24.68,
+    "internalTemperature": 4.23,
+    "powerConsumption": 60.4,
+    "internal_temperature": 4.29,
+    "temperature_duration": 1.18
+  },
+  {
+    "timestamp": "2025-04-10T21:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.17,
+    "internalTemperature": 3.09,
+    "powerConsumption": 57.69,
+    "internal_temperature": 3.96,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T21:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.21,
+    "internalTemperature": 2.43,
+    "powerConsumption": 61.19,
+    "internal_temperature": 1.98,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T21:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.5,
+    "internalTemperature": 4.05,
+    "powerConsumption": 59.14,
+    "internal_temperature": 3.44,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T21:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.22,
+    "internalTemperature": 2.33,
+    "powerConsumption": 62.39,
+    "internal_temperature": 2.34,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T21:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.27,
+    "ambientTemperature": 19.25,
+    "internalTemperature": 5.99,
+    "powerConsumption": 65.85,
+    "internal_temperature": 8.05,
+    "temperature_duration": 3.11
+  },
+  {
+    "timestamp": "2025-04-10T21:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.49,
+    "internalTemperature": 7.56,
+    "powerConsumption": 61.26,
+    "internal_temperature": 7.82,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T21:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.21,
+    "ambientTemperature": 18.91,
+    "internalTemperature": 6.56,
+    "powerConsumption": 60.36,
+    "internal_temperature": 8.0,
+    "temperature_duration": 1.48
+  },
+  {
+    "timestamp": "2025-04-10T21:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.94,
+    "ambientTemperature": 19.97,
+    "internalTemperature": 7.67,
+    "powerConsumption": 65.99,
+    "internal_temperature": 11.01,
+    "temperature_duration": 2.98
+  },
+  {
+    "timestamp": "2025-04-10T21:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.76,
+    "internalTemperature": 5.72,
+    "powerConsumption": 58.57,
+    "internal_temperature": 4.99,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T21:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.44,
+    "internalTemperature": 7.28,
+    "powerConsumption": 61.9,
+    "internal_temperature": 6.89,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T21:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.52,
+    "ambientTemperature": 27.15,
+    "internalTemperature": 5.17,
+    "powerConsumption": 64.72,
+    "internal_temperature": 6.11,
+    "temperature_duration": 1.61
+  },
+  {
+    "timestamp": "2025-04-10T21:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.98,
+    "internalTemperature": 4.83,
+    "powerConsumption": 60.28,
+    "internal_temperature": 4.73,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T22:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.74,
+    "internalTemperature": 7.26,
+    "powerConsumption": 60.13,
+    "internal_temperature": 6.68,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T22:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.04,
+    "ambientTemperature": 20.64,
+    "internalTemperature": 4.49,
+    "powerConsumption": 66.65,
+    "internal_temperature": 6.6,
+    "temperature_duration": 2.62
+  },
+  {
+    "timestamp": "2025-04-10T22:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.08,
+    "ambientTemperature": 23.19,
+    "internalTemperature": 6.66,
+    "powerConsumption": 74.19,
+    "internal_temperature": 11.46,
+    "temperature_duration": 4.63
+  },
+  {
+    "timestamp": "2025-04-10T22:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.8,
+    "ambientTemperature": 26.44,
+    "internalTemperature": 6.76,
+    "powerConsumption": 63.37,
+    "internal_temperature": 8.98,
+    "temperature_duration": 2.52
+  },
+  {
+    "timestamp": "2025-04-10T22:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.08,
+    "ambientTemperature": 26.29,
+    "internalTemperature": 2.88,
+    "powerConsumption": 73.52,
+    "internal_temperature": 5.53,
+    "temperature_duration": 3.83
+  },
+  {
+    "timestamp": "2025-04-10T22:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.46,
+    "internalTemperature": 7.81,
+    "powerConsumption": 59.39,
+    "internal_temperature": 7.0,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T22:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.88,
+    "ambientTemperature": 26.28,
+    "internalTemperature": 4.96,
+    "powerConsumption": 66.52,
+    "internal_temperature": 7.25,
+    "temperature_duration": 2.55
+  },
+  {
+    "timestamp": "2025-04-10T22:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.24,
+    "ambientTemperature": 21.7,
+    "internalTemperature": 2.33,
+    "powerConsumption": 58.29,
+    "internal_temperature": 3.3,
+    "temperature_duration": 1.1
+  },
+  {
+    "timestamp": "2025-04-10T22:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.73,
+    "ambientTemperature": 22.71,
+    "internalTemperature": 6.09,
+    "powerConsumption": 61.54,
+    "internal_temperature": 7.8,
+    "temperature_duration": 1.69
+  },
+  {
+    "timestamp": "2025-04-10T22:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.29,
+    "internalTemperature": 6.1,
+    "powerConsumption": 61.12,
+    "internal_temperature": 5.79,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T22:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.3,
+    "ambientTemperature": 24.57,
+    "internalTemperature": 2.14,
+    "powerConsumption": 62.12,
+    "internal_temperature": 2.86,
+    "temperature_duration": 2.32
+  },
+  {
+    "timestamp": "2025-04-10T22:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.04,
+    "internalTemperature": 5.98,
+    "powerConsumption": 61.16,
+    "internal_temperature": 5.87,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.62,
+    "internalTemperature": 7.75,
+    "powerConsumption": 62.14,
+    "internal_temperature": 7.7,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.8,
+    "internalTemperature": 5.6,
+    "powerConsumption": 62.72,
+    "internal_temperature": 5.91,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.97,
+    "internalTemperature": 5.69,
+    "powerConsumption": 57.7,
+    "internal_temperature": 6.39,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.14,
+    "internalTemperature": 4.96,
+    "powerConsumption": 59.86,
+    "internal_temperature": 4.76,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.34,
+    "internalTemperature": 5.58,
+    "powerConsumption": 57.61,
+    "internal_temperature": 5.82,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.6,
+    "internalTemperature": 4.36,
+    "powerConsumption": 57.86,
+    "internal_temperature": 4.66,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.67,
+    "internalTemperature": 6.82,
+    "powerConsumption": 61.8,
+    "internal_temperature": 6.09,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.13,
+    "ambientTemperature": 27.07,
+    "internalTemperature": 6.09,
+    "powerConsumption": 66.52,
+    "internal_temperature": 8.44,
+    "temperature_duration": 3.45
+  },
+  {
+    "timestamp": "2025-04-10T23:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.81,
+    "ambientTemperature": 20.85,
+    "internalTemperature": 6.86,
+    "powerConsumption": 62.85,
+    "internal_temperature": 7.35,
+    "temperature_duration": 1.72
+  },
+  {
+    "timestamp": "2025-04-10T23:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.43,
+    "ambientTemperature": 23.24,
+    "internalTemperature": 4.17,
+    "powerConsumption": 69.05,
+    "internal_temperature": 7.74,
+    "temperature_duration": 3.97
+  },
+  {
+    "timestamp": "2025-04-10T23:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.65,
+    "internalTemperature": 7.37,
+    "powerConsumption": 57.56,
+    "internal_temperature": 6.68,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-10T23:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.81,
+    "internalTemperature": 5.53,
+    "powerConsumption": 59.69,
+    "internal_temperature": 4.59,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T00:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.66,
+    "ambientTemperature": 20.18,
+    "internalTemperature": 7.03,
+    "powerConsumption": 61.57,
+    "internal_temperature": 6.49,
+    "temperature_duration": 1.26
+  },
+  {
+    "timestamp": "2025-04-11T00:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.71,
+    "internalTemperature": 3.0,
+    "powerConsumption": 57.09,
+    "internal_temperature": 3.52,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T00:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.03,
+    "ambientTemperature": 27.06,
+    "internalTemperature": 7.41,
+    "powerConsumption": 58.17,
+    "internal_temperature": 8.18,
+    "temperature_duration": 1.01
+  },
+  {
+    "timestamp": "2025-04-11T00:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.76,
+    "internalTemperature": 7.17,
+    "powerConsumption": 60.85,
+    "internal_temperature": 6.96,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T00:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.39,
+    "ambientTemperature": 18.51,
+    "internalTemperature": 4.76,
+    "powerConsumption": 59.97,
+    "internal_temperature": 6.1,
+    "temperature_duration": 1.56
+  },
+  {
+    "timestamp": "2025-04-11T00:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.29,
+    "ambientTemperature": 20.83,
+    "internalTemperature": 7.87,
+    "powerConsumption": 63.97,
+    "internal_temperature": 9.94,
+    "temperature_duration": 1.92
+  },
+  {
+    "timestamp": "2025-04-11T00:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.47,
+    "ambientTemperature": 26.27,
+    "internalTemperature": 5.94,
+    "powerConsumption": 59.94,
+    "internal_temperature": 6.74,
+    "temperature_duration": 1.19
+  },
+  {
+    "timestamp": "2025-04-11T00:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.03,
+    "ambientTemperature": 22.13,
+    "internalTemperature": 7.61,
+    "powerConsumption": 58.6,
+    "internal_temperature": 7.42,
+    "temperature_duration": 1.41
+  },
+  {
+    "timestamp": "2025-04-11T00:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.74,
+    "ambientTemperature": 26.0,
+    "internalTemperature": 2.63,
+    "powerConsumption": 62.77,
+    "internal_temperature": 3.12,
+    "temperature_duration": 1.7
+  },
+  {
+    "timestamp": "2025-04-11T00:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.96,
+    "ambientTemperature": 24.88,
+    "internalTemperature": 4.87,
+    "powerConsumption": 69.46,
+    "internal_temperature": 8.81,
+    "temperature_duration": 4.18
+  },
+  {
+    "timestamp": "2025-04-11T00:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.74,
+    "internalTemperature": 6.19,
+    "powerConsumption": 58.26,
+    "internal_temperature": 6.44,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T00:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.76,
+    "internalTemperature": 6.21,
+    "powerConsumption": 57.74,
+    "internal_temperature": 5.8,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T01:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.69,
+    "internalTemperature": 2.09,
+    "powerConsumption": 59.93,
+    "internal_temperature": 1.62,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T01:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.43,
+    "ambientTemperature": 26.66,
+    "internalTemperature": 2.24,
+    "powerConsumption": 63.34,
+    "internal_temperature": 2.97,
+    "temperature_duration": 2.37
+  },
+  {
+    "timestamp": "2025-04-11T01:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.79,
+    "ambientTemperature": 23.09,
+    "internalTemperature": 5.87,
+    "powerConsumption": 74.34,
+    "internal_temperature": 9.99,
+    "temperature_duration": 4.52
+  },
+  {
+    "timestamp": "2025-04-11T01:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.33,
+    "ambientTemperature": 22.9,
+    "internalTemperature": 5.0,
+    "powerConsumption": 63.91,
+    "internal_temperature": 8.06,
+    "temperature_duration": 2.73
+  },
+  {
+    "timestamp": "2025-04-11T01:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.83,
+    "ambientTemperature": 24.79,
+    "internalTemperature": 6.1,
+    "powerConsumption": 66.14,
+    "internal_temperature": 8.75,
+    "temperature_duration": 2.53
+  },
+  {
+    "timestamp": "2025-04-11T01:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.19,
+    "ambientTemperature": 21.46,
+    "internalTemperature": 6.44,
+    "powerConsumption": 62.0,
+    "internal_temperature": 8.58,
+    "temperature_duration": 2.28
+  },
+  {
+    "timestamp": "2025-04-11T01:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.6,
+    "internalTemperature": 3.43,
+    "powerConsumption": 57.14,
+    "internal_temperature": 2.75,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T01:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.78,
+    "ambientTemperature": 21.55,
+    "internalTemperature": 4.48,
+    "powerConsumption": 61.51,
+    "internal_temperature": 5.2,
+    "temperature_duration": 1.71
+  },
+  {
+    "timestamp": "2025-04-11T01:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.52,
+    "ambientTemperature": 26.92,
+    "internalTemperature": 2.63,
+    "powerConsumption": 71.95,
+    "internal_temperature": 8.15,
+    "temperature_duration": 4.81
+  },
+  {
+    "timestamp": "2025-04-11T01:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.7,
+    "internalTemperature": 3.97,
+    "powerConsumption": 62.37,
+    "internal_temperature": 3.49,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T01:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.42,
+    "ambientTemperature": 21.58,
+    "internalTemperature": 7.37,
+    "powerConsumption": 73.94,
+    "internal_temperature": 10.82,
+    "temperature_duration": 3.97
+  },
+  {
+    "timestamp": "2025-04-11T01:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.44,
+    "internalTemperature": 6.56,
+    "powerConsumption": 61.74,
+    "internal_temperature": 7.49,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T02:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.57,
+    "ambientTemperature": 27.65,
+    "internalTemperature": 6.84,
+    "powerConsumption": 61.86,
+    "internal_temperature": 7.35,
+    "temperature_duration": 1.23
+  },
+  {
+    "timestamp": "2025-04-11T02:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.22,
+    "internalTemperature": 7.93,
+    "powerConsumption": 59.31,
+    "internal_temperature": 7.32,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T02:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.58,
+    "internalTemperature": 2.7,
+    "powerConsumption": 60.31,
+    "internal_temperature": 2.17,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T02:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.52,
+    "internalTemperature": 7.93,
+    "powerConsumption": 61.26,
+    "internal_temperature": 7.41,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T02:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.07,
+    "ambientTemperature": 23.2,
+    "internalTemperature": 6.99,
+    "powerConsumption": 69.76,
+    "internal_temperature": 11.46,
+    "temperature_duration": 4.23
+  },
+  {
+    "timestamp": "2025-04-11T02:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.41,
+    "internalTemperature": 4.45,
+    "powerConsumption": 60.77,
+    "internal_temperature": 3.7,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T02:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.32,
+    "ambientTemperature": 23.45,
+    "internalTemperature": 4.34,
+    "powerConsumption": 63.79,
+    "internal_temperature": 6.1,
+    "temperature_duration": 2.33
+  },
+  {
+    "timestamp": "2025-04-11T02:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.71,
+    "ambientTemperature": 22.05,
+    "internalTemperature": 4.75,
+    "powerConsumption": 71.2,
+    "internal_temperature": 8.29,
+    "temperature_duration": 4.48
+  },
+  {
+    "timestamp": "2025-04-11T02:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.11,
+    "internalTemperature": 3.95,
+    "powerConsumption": 60.66,
+    "internal_temperature": 3.0,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T02:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.72,
+    "ambientTemperature": 26.37,
+    "internalTemperature": 2.58,
+    "powerConsumption": 68.58,
+    "internal_temperature": 3.96,
+    "temperature_duration": 2.89
+  },
+  {
+    "timestamp": "2025-04-11T02:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.62,
+    "ambientTemperature": 20.08,
+    "internalTemperature": 4.07,
+    "powerConsumption": 71.78,
+    "internal_temperature": 9.34,
+    "temperature_duration": 4.45
+  },
+  {
+    "timestamp": "2025-04-11T02:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.71,
+    "ambientTemperature": 21.29,
+    "internalTemperature": 7.89,
+    "powerConsumption": 71.5,
+    "internal_temperature": 10.66,
+    "temperature_duration": 3.28
+  },
+  {
+    "timestamp": "2025-04-11T03:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.01,
+    "ambientTemperature": 26.12,
+    "internalTemperature": 7.63,
+    "powerConsumption": 70.02,
+    "internal_temperature": 10.25,
+    "temperature_duration": 3.4
+  },
+  {
+    "timestamp": "2025-04-11T03:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.26,
+    "internalTemperature": 6.22,
+    "powerConsumption": 57.18,
+    "internal_temperature": 7.08,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T03:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.96,
+    "ambientTemperature": 27.6,
+    "internalTemperature": 4.61,
+    "powerConsumption": 62.66,
+    "internal_temperature": 4.66,
+    "temperature_duration": 1.38
+  },
+  {
+    "timestamp": "2025-04-11T03:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.2,
+    "internalTemperature": 4.11,
+    "powerConsumption": 60.71,
+    "internal_temperature": 4.03,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T03:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.73,
+    "ambientTemperature": 23.68,
+    "internalTemperature": 3.7,
+    "powerConsumption": 69.42,
+    "internal_temperature": 6.61,
+    "temperature_duration": 4.09
+  },
+  {
+    "timestamp": "2025-04-11T03:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.97,
+    "ambientTemperature": 22.22,
+    "internalTemperature": 6.39,
+    "powerConsumption": 63.15,
+    "internal_temperature": 8.46,
+    "temperature_duration": 2.59
+  },
+  {
+    "timestamp": "2025-04-11T03:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.26,
+    "ambientTemperature": 18.78,
+    "internalTemperature": 4.78,
+    "powerConsumption": 57.56,
+    "internal_temperature": 5.16,
+    "temperature_duration": 1.1
+  },
+  {
+    "timestamp": "2025-04-11T03:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.3,
+    "ambientTemperature": 22.73,
+    "internalTemperature": 5.06,
+    "powerConsumption": 71.18,
+    "internal_temperature": 8.41,
+    "temperature_duration": 3.52
+  },
+  {
+    "timestamp": "2025-04-11T03:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.92,
+    "ambientTemperature": 20.52,
+    "internalTemperature": 7.49,
+    "powerConsumption": 75.61,
+    "internal_temperature": 12.17,
+    "temperature_duration": 4.57
+  },
+  {
+    "timestamp": "2025-04-11T03:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.27,
+    "ambientTemperature": 19.6,
+    "internalTemperature": 5.96,
+    "powerConsumption": 57.69,
+    "internal_temperature": 5.19,
+    "temperature_duration": 1.11
+  },
+  {
+    "timestamp": "2025-04-11T03:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.49,
+    "internalTemperature": 3.09,
+    "powerConsumption": 59.61,
+    "internal_temperature": 3.28,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T03:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.12,
+    "internalTemperature": 7.47,
+    "powerConsumption": 58.53,
+    "internal_temperature": 6.86,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T04:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.02,
+    "ambientTemperature": 24.88,
+    "internalTemperature": 5.9,
+    "powerConsumption": 69.45,
+    "internal_temperature": 9.1,
+    "temperature_duration": 3.81
+  },
+  {
+    "timestamp": "2025-04-11T04:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.01,
+    "ambientTemperature": 27.87,
+    "internalTemperature": 6.64,
+    "powerConsumption": 61.64,
+    "internal_temperature": 6.08,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T04:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.09,
+    "internalTemperature": 6.38,
+    "powerConsumption": 58.01,
+    "internal_temperature": 5.46,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T04:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.11,
+    "ambientTemperature": 21.24,
+    "internalTemperature": 6.33,
+    "powerConsumption": 75.36,
+    "internal_temperature": 11.39,
+    "temperature_duration": 4.64
+  },
+  {
+    "timestamp": "2025-04-11T04:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.54,
+    "internalTemperature": 7.33,
+    "powerConsumption": 57.54,
+    "internal_temperature": 6.67,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T04:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.02,
+    "internalTemperature": 7.72,
+    "powerConsumption": 61.57,
+    "internal_temperature": 8.57,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T04:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.02,
+    "ambientTemperature": 24.53,
+    "internalTemperature": 7.2,
+    "powerConsumption": 60.97,
+    "internal_temperature": 7.79,
+    "temperature_duration": 1.41
+  },
+  {
+    "timestamp": "2025-04-11T04:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.99,
+    "ambientTemperature": 22.24,
+    "internalTemperature": 4.22,
+    "powerConsumption": 69.66,
+    "internal_temperature": 8.05,
+    "temperature_duration": 3.8
+  },
+  {
+    "timestamp": "2025-04-11T04:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.68,
+    "ambientTemperature": 19.96,
+    "internalTemperature": 4.58,
+    "powerConsumption": 71.26,
+    "internal_temperature": 8.87,
+    "temperature_duration": 3.67
+  },
+  {
+    "timestamp": "2025-04-11T04:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.63,
+    "ambientTemperature": 22.6,
+    "internalTemperature": 3.47,
+    "powerConsumption": 62.49,
+    "internal_temperature": 3.66,
+    "temperature_duration": 1.25
+  },
+  {
+    "timestamp": "2025-04-11T04:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.15,
+    "internalTemperature": 3.73,
+    "powerConsumption": 59.64,
+    "internal_temperature": 4.18,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T04:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.58,
+    "ambientTemperature": 20.54,
+    "internalTemperature": 6.24,
+    "powerConsumption": 68.88,
+    "internal_temperature": 9.28,
+    "temperature_duration": 2.83
+  },
+  {
+    "timestamp": "2025-04-11T05:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.04,
+    "ambientTemperature": 21.11,
+    "internalTemperature": 2.21,
+    "powerConsumption": 63.36,
+    "internal_temperature": 4.02,
+    "temperature_duration": 1.82
+  },
+  {
+    "timestamp": "2025-04-11T05:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.58,
+    "internalTemperature": 4.91,
+    "powerConsumption": 58.98,
+    "internal_temperature": 3.98,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T05:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.4,
+    "internalTemperature": 7.34,
+    "powerConsumption": 59.75,
+    "internal_temperature": 6.58,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T05:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.81,
+    "internalTemperature": 7.7,
+    "powerConsumption": 59.21,
+    "internal_temperature": 7.46,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T05:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.96,
+    "internalTemperature": 3.56,
+    "powerConsumption": 57.96,
+    "internal_temperature": 3.99,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T05:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.14,
+    "ambientTemperature": 24.97,
+    "internalTemperature": 5.9,
+    "powerConsumption": 75.85,
+    "internal_temperature": 10.48,
+    "temperature_duration": 4.66
+  },
+  {
+    "timestamp": "2025-04-11T05:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.15,
+    "ambientTemperature": 26.78,
+    "internalTemperature": 3.98,
+    "powerConsumption": 71.39,
+    "internal_temperature": 8.9,
+    "temperature_duration": 4.26
+  },
+  {
+    "timestamp": "2025-04-11T05:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.9,
+    "internalTemperature": 6.57,
+    "powerConsumption": 59.78,
+    "internal_temperature": 7.49,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T05:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.85,
+    "ambientTemperature": 26.27,
+    "internalTemperature": 6.29,
+    "powerConsumption": 65.37,
+    "internal_temperature": 9.51,
+    "temperature_duration": 2.94
+  },
+  {
+    "timestamp": "2025-04-11T05:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.45,
+    "internalTemperature": 6.14,
+    "powerConsumption": 62.46,
+    "internal_temperature": 6.07,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T05:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.98,
+    "internalTemperature": 6.79,
+    "powerConsumption": 61.62,
+    "internal_temperature": 6.82,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T05:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.63,
+    "internalTemperature": 2.03,
+    "powerConsumption": 61.7,
+    "internal_temperature": 2.91,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T06:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.05,
+    "ambientTemperature": 23.65,
+    "internalTemperature": 7.29,
+    "powerConsumption": 65.04,
+    "internal_temperature": 7.76,
+    "temperature_duration": 1.82
+  },
+  {
+    "timestamp": "2025-04-11T06:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.2,
+    "ambientTemperature": 24.54,
+    "internalTemperature": 7.76,
+    "powerConsumption": 62.51,
+    "internal_temperature": 7.94,
+    "temperature_duration": 1.08
+  },
+  {
+    "timestamp": "2025-04-11T06:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.84,
+    "ambientTemperature": 20.88,
+    "internalTemperature": 7.7,
+    "powerConsumption": 73.98,
+    "internal_temperature": 11.01,
+    "temperature_duration": 4.14
+  },
+  {
+    "timestamp": "2025-04-11T06:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.26,
+    "ambientTemperature": 26.54,
+    "internalTemperature": 3.02,
+    "powerConsumption": 69.95,
+    "internal_temperature": 5.38,
+    "temperature_duration": 3.5
+  },
+  {
+    "timestamp": "2025-04-11T06:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.29,
+    "internalTemperature": 3.97,
+    "powerConsumption": 61.45,
+    "internal_temperature": 3.8,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T06:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.41,
+    "ambientTemperature": 18.81,
+    "internalTemperature": 6.39,
+    "powerConsumption": 60.64,
+    "internal_temperature": 6.2,
+    "temperature_duration": 1.16
+  },
+  {
+    "timestamp": "2025-04-11T06:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.63,
+    "internalTemperature": 5.72,
+    "powerConsumption": 59.24,
+    "internal_temperature": 5.18,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T06:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.44,
+    "ambientTemperature": 21.19,
+    "internalTemperature": 2.54,
+    "powerConsumption": 64.25,
+    "internal_temperature": 4.4,
+    "temperature_duration": 1.98
+  },
+  {
+    "timestamp": "2025-04-11T06:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.23,
+    "ambientTemperature": 27.17,
+    "internalTemperature": 4.53,
+    "powerConsumption": 63.24,
+    "internal_temperature": 5.13,
+    "temperature_duration": 1.89
+  },
+  {
+    "timestamp": "2025-04-11T06:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.87,
+    "internalTemperature": 2.96,
+    "powerConsumption": 61.18,
+    "internal_temperature": 2.48,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T06:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.7,
+    "ambientTemperature": 27.38,
+    "internalTemperature": 3.99,
+    "powerConsumption": 65.82,
+    "internal_temperature": 6.88,
+    "temperature_duration": 3.28
+  },
+  {
+    "timestamp": "2025-04-11T06:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.32,
+    "ambientTemperature": 27.21,
+    "internalTemperature": 6.8,
+    "powerConsumption": 60.24,
+    "internal_temperature": 7.62,
+    "temperature_duration": 1.13
+  },
+  {
+    "timestamp": "2025-04-11T07:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.22,
+    "internalTemperature": 3.58,
+    "powerConsumption": 60.26,
+    "internal_temperature": 2.84,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.28,
+    "ambientTemperature": 18.32,
+    "internalTemperature": 5.99,
+    "powerConsumption": 70.43,
+    "internal_temperature": 7.67,
+    "temperature_duration": 3.11
+  },
+  {
+    "timestamp": "2025-04-11T07:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.04,
+    "internalTemperature": 4.69,
+    "powerConsumption": 58.48,
+    "internal_temperature": 4.38,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.27,
+    "internalTemperature": 7.79,
+    "powerConsumption": 60.77,
+    "internal_temperature": 7.03,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.47,
+    "internalTemperature": 7.94,
+    "powerConsumption": 58.63,
+    "internal_temperature": 7.29,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.65,
+    "ambientTemperature": 19.51,
+    "internalTemperature": 3.92,
+    "powerConsumption": 65.39,
+    "internal_temperature": 4.28,
+    "temperature_duration": 1.66
+  },
+  {
+    "timestamp": "2025-04-11T07:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.41,
+    "internalTemperature": 7.43,
+    "powerConsumption": 62.74,
+    "internal_temperature": 7.98,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.7,
+    "internalTemperature": 2.25,
+    "powerConsumption": 61.91,
+    "internal_temperature": 1.56,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.02,
+    "internalTemperature": 4.75,
+    "powerConsumption": 59.05,
+    "internal_temperature": 5.07,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.37,
+    "ambientTemperature": 19.25,
+    "internalTemperature": 6.83,
+    "powerConsumption": 69.19,
+    "internal_temperature": 9.09,
+    "temperature_duration": 2.75
+  },
+  {
+    "timestamp": "2025-04-11T07:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.89,
+    "internalTemperature": 7.69,
+    "powerConsumption": 60.23,
+    "internal_temperature": 6.75,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T07:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.92,
+    "ambientTemperature": 24.31,
+    "internalTemperature": 2.37,
+    "powerConsumption": 70.23,
+    "internal_temperature": 5.3,
+    "temperature_duration": 2.97
+  },
+  {
+    "timestamp": "2025-04-11T08:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.49,
+    "internalTemperature": 6.79,
+    "powerConsumption": 60.98,
+    "internal_temperature": 6.33,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T08:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.16,
+    "ambientTemperature": 22.29,
+    "internalTemperature": 3.57,
+    "powerConsumption": 62.78,
+    "internal_temperature": 5.03,
+    "temperature_duration": 2.26
+  },
+  {
+    "timestamp": "2025-04-11T08:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.02,
+    "internalTemperature": 6.04,
+    "powerConsumption": 57.71,
+    "internal_temperature": 6.47,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T08:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.03,
+    "internalTemperature": 2.94,
+    "powerConsumption": 62.69,
+    "internal_temperature": 3.64,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T08:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.31,
+    "internalTemperature": 5.26,
+    "powerConsumption": 61.43,
+    "internal_temperature": 5.35,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T08:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.67,
+    "internalTemperature": 7.85,
+    "powerConsumption": 57.11,
+    "internal_temperature": 7.85,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T08:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.46,
+    "ambientTemperature": 22.95,
+    "internalTemperature": 4.77,
+    "powerConsumption": 65.0,
+    "internal_temperature": 6.38,
+    "temperature_duration": 1.58
+  },
+  {
+    "timestamp": "2025-04-11T08:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.18,
+    "ambientTemperature": 20.28,
+    "internalTemperature": 3.6,
+    "powerConsumption": 66.74,
+    "internal_temperature": 6.03,
+    "temperature_duration": 3.07
+  },
+  {
+    "timestamp": "2025-04-11T08:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.26,
+    "ambientTemperature": 21.08,
+    "internalTemperature": 2.91,
+    "powerConsumption": 68.7,
+    "internal_temperature": 6.45,
+    "temperature_duration": 3.1
+  },
+  {
+    "timestamp": "2025-04-11T08:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.34,
+    "internalTemperature": 2.39,
+    "powerConsumption": 59.28,
+    "internal_temperature": 2.49,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T08:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.98,
+    "internalTemperature": 3.13,
+    "powerConsumption": 62.39,
+    "internal_temperature": 2.54,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T08:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.99,
+    "ambientTemperature": 18.12,
+    "internalTemperature": 2.56,
+    "powerConsumption": 74.76,
+    "internal_temperature": 5.91,
+    "temperature_duration": 4.2
+  },
+  {
+    "timestamp": "2025-04-11T09:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.77,
+    "ambientTemperature": 19.0,
+    "internalTemperature": 6.95,
+    "powerConsumption": 72.97,
+    "internal_temperature": 11.36,
+    "temperature_duration": 4.51
+  },
+  {
+    "timestamp": "2025-04-11T09:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.51,
+    "ambientTemperature": 25.41,
+    "internalTemperature": 4.85,
+    "powerConsumption": 64.42,
+    "internal_temperature": 6.85,
+    "temperature_duration": 2.8
+  },
+  {
+    "timestamp": "2025-04-11T09:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.1,
+    "internalTemperature": 4.86,
+    "powerConsumption": 58.62,
+    "internal_temperature": 4.74,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T09:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.53,
+    "ambientTemperature": 19.01,
+    "internalTemperature": 3.43,
+    "powerConsumption": 63.43,
+    "internal_temperature": 3.29,
+    "temperature_duration": 1.61
+  },
+  {
+    "timestamp": "2025-04-11T09:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.55,
+    "ambientTemperature": 24.13,
+    "internalTemperature": 5.11,
+    "powerConsumption": 60.62,
+    "internal_temperature": 4.45,
+    "temperature_duration": 1.22
+  },
+  {
+    "timestamp": "2025-04-11T09:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.06,
+    "ambientTemperature": 24.03,
+    "internalTemperature": 4.81,
+    "powerConsumption": 70.99,
+    "internal_temperature": 7.73,
+    "temperature_duration": 3.42
+  },
+  {
+    "timestamp": "2025-04-11T09:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.35,
+    "ambientTemperature": 18.44,
+    "internalTemperature": 7.4,
+    "powerConsumption": 71.9,
+    "internal_temperature": 11.8,
+    "temperature_duration": 3.94
+  },
+  {
+    "timestamp": "2025-04-11T09:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.2,
+    "ambientTemperature": 25.17,
+    "internalTemperature": 6.11,
+    "powerConsumption": 69.05,
+    "internal_temperature": 9.04,
+    "temperature_duration": 3.88
+  },
+  {
+    "timestamp": "2025-04-11T09:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.86,
+    "ambientTemperature": 22.19,
+    "internalTemperature": 3.32,
+    "powerConsumption": 67.53,
+    "internal_temperature": 7.43,
+    "temperature_duration": 3.74
+  },
+  {
+    "timestamp": "2025-04-11T09:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.62,
+    "ambientTemperature": 18.38,
+    "internalTemperature": 5.77,
+    "powerConsumption": 67.64,
+    "internal_temperature": 7.66,
+    "temperature_duration": 3.25
+  },
+  {
+    "timestamp": "2025-04-11T09:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.27,
+    "internalTemperature": 7.28,
+    "powerConsumption": 59.45,
+    "internal_temperature": 7.25,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T09:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.82,
+    "internalTemperature": 2.9,
+    "powerConsumption": 58.66,
+    "internal_temperature": 3.22,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.31,
+    "internalTemperature": 2.74,
+    "powerConsumption": 61.25,
+    "internal_temperature": 2.31,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.96,
+    "internalTemperature": 6.69,
+    "powerConsumption": 59.58,
+    "internal_temperature": 7.11,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.32,
+    "ambientTemperature": 20.25,
+    "internalTemperature": 6.61,
+    "powerConsumption": 66.33,
+    "internal_temperature": 8.42,
+    "temperature_duration": 1.93
+  },
+  {
+    "timestamp": "2025-04-11T10:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.75,
+    "internalTemperature": 7.4,
+    "powerConsumption": 59.29,
+    "internal_temperature": 7.9,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.6,
+    "internalTemperature": 2.23,
+    "powerConsumption": 58.04,
+    "internal_temperature": 2.32,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.01,
+    "internalTemperature": 4.72,
+    "powerConsumption": 59.27,
+    "internal_temperature": 4.31,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.87,
+    "internalTemperature": 7.38,
+    "powerConsumption": 59.04,
+    "internal_temperature": 8.2,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.17,
+    "internalTemperature": 4.97,
+    "powerConsumption": 60.61,
+    "internal_temperature": 5.67,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T10:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.53,
+    "ambientTemperature": 22.32,
+    "internalTemperature": 6.5,
+    "powerConsumption": 61.96,
+    "internal_temperature": 7.46,
+    "temperature_duration": 1.61
+  },
+  {
+    "timestamp": "2025-04-11T10:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.21,
+    "ambientTemperature": 19.79,
+    "internalTemperature": 2.57,
+    "powerConsumption": 70.72,
+    "internal_temperature": 6.41,
+    "temperature_duration": 4.28
+  },
+  {
+    "timestamp": "2025-04-11T10:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.38,
+    "ambientTemperature": 23.66,
+    "internalTemperature": 5.62,
+    "powerConsumption": 59.47,
+    "internal_temperature": 5.67,
+    "temperature_duration": 1.55
+  },
+  {
+    "timestamp": "2025-04-11T10:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.77,
+    "internalTemperature": 7.02,
+    "powerConsumption": 60.66,
+    "internal_temperature": 6.59,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.78,
+    "internalTemperature": 4.95,
+    "powerConsumption": 57.44,
+    "internal_temperature": 4.09,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.94,
+    "internalTemperature": 4.57,
+    "powerConsumption": 57.69,
+    "internal_temperature": 4.54,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.4,
+    "internalTemperature": 6.68,
+    "powerConsumption": 60.44,
+    "internal_temperature": 6.66,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.64,
+    "internalTemperature": 4.77,
+    "powerConsumption": 58.1,
+    "internal_temperature": 5.14,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.6,
+    "ambientTemperature": 21.26,
+    "internalTemperature": 5.05,
+    "powerConsumption": 69.01,
+    "internal_temperature": 7.91,
+    "temperature_duration": 3.64
+  },
+  {
+    "timestamp": "2025-04-11T11:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.18,
+    "internalTemperature": 2.43,
+    "powerConsumption": 59.03,
+    "internal_temperature": 1.55,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.47,
+    "internalTemperature": 5.31,
+    "powerConsumption": 61.63,
+    "internal_temperature": 4.58,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.53,
+    "internalTemperature": 2.59,
+    "powerConsumption": 59.0,
+    "internal_temperature": 3.47,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.06,
+    "internalTemperature": 7.75,
+    "powerConsumption": 59.15,
+    "internal_temperature": 7.16,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T11:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.6,
+    "ambientTemperature": 24.97,
+    "internalTemperature": 5.21,
+    "powerConsumption": 66.16,
+    "internal_temperature": 8.17,
+    "temperature_duration": 3.24
+  },
+  {
+    "timestamp": "2025-04-11T11:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.4,
+    "ambientTemperature": 26.04,
+    "internalTemperature": 5.08,
+    "powerConsumption": 66.75,
+    "internal_temperature": 8.14,
+    "temperature_duration": 3.16
+  },
+  {
+    "timestamp": "2025-04-11T11:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.15,
+    "internalTemperature": 4.62,
+    "powerConsumption": 59.54,
+    "internal_temperature": 5.6,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T12:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.75,
+    "ambientTemperature": 23.32,
+    "internalTemperature": 2.2,
+    "powerConsumption": 72.45,
+    "internal_temperature": 5.77,
+    "temperature_duration": 4.1
+  },
+  {
+    "timestamp": "2025-04-11T12:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.73,
+    "ambientTemperature": 19.98,
+    "internalTemperature": 4.3,
+    "powerConsumption": 65.44,
+    "internal_temperature": 5.0,
+    "temperature_duration": 2.09
+  },
+  {
+    "timestamp": "2025-04-11T12:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.91,
+    "internalTemperature": 5.86,
+    "powerConsumption": 59.57,
+    "internal_temperature": 6.78,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T12:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.99,
+    "ambientTemperature": 22.62,
+    "internalTemperature": 6.17,
+    "powerConsumption": 64.46,
+    "internal_temperature": 6.89,
+    "temperature_duration": 1.4
+  },
+  {
+    "timestamp": "2025-04-11T12:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.82,
+    "internalTemperature": 2.83,
+    "powerConsumption": 61.44,
+    "internal_temperature": 2.37,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T12:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.25,
+    "ambientTemperature": 24.6,
+    "internalTemperature": 7.27,
+    "powerConsumption": 58.3,
+    "internal_temperature": 6.9,
+    "temperature_duration": 1.1
+  },
+  {
+    "timestamp": "2025-04-11T12:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.6,
+    "internalTemperature": 4.85,
+    "powerConsumption": 62.03,
+    "internal_temperature": 4.08,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T12:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.58,
+    "ambientTemperature": 23.03,
+    "internalTemperature": 2.65,
+    "powerConsumption": 63.62,
+    "internal_temperature": 2.58,
+    "temperature_duration": 1.23
+  },
+  {
+    "timestamp": "2025-04-11T12:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.3,
+    "internalTemperature": 3.01,
+    "powerConsumption": 62.68,
+    "internal_temperature": 2.43,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T12:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.63,
+    "internalTemperature": 5.47,
+    "powerConsumption": 59.23,
+    "internal_temperature": 5.15,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T12:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.3,
+    "internalTemperature": 6.05,
+    "powerConsumption": 57.8,
+    "internal_temperature": 6.56,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T12:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.95,
+    "ambientTemperature": 21.12,
+    "internalTemperature": 4.19,
+    "powerConsumption": 73.01,
+    "internal_temperature": 7.78,
+    "temperature_duration": 3.78
+  },
+  {
+    "timestamp": "2025-04-11T13:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.99,
+    "ambientTemperature": 24.82,
+    "internalTemperature": 4.25,
+    "powerConsumption": 66.47,
+    "internal_temperature": 7.07,
+    "temperature_duration": 2.6
+  },
+  {
+    "timestamp": "2025-04-11T13:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.72,
+    "ambientTemperature": 18.29,
+    "internalTemperature": 7.38,
+    "powerConsumption": 62.6,
+    "internal_temperature": 7.4,
+    "temperature_duration": 1.29
+  },
+  {
+    "timestamp": "2025-04-11T13:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.52,
+    "ambientTemperature": 24.92,
+    "internalTemperature": 3.15,
+    "powerConsumption": 61.19,
+    "internal_temperature": 5.32,
+    "temperature_duration": 2.01
+  },
+  {
+    "timestamp": "2025-04-11T13:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.75,
+    "internalTemperature": 6.4,
+    "powerConsumption": 62.08,
+    "internal_temperature": 6.59,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T13:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.12,
+    "internalTemperature": 7.97,
+    "powerConsumption": 58.46,
+    "internal_temperature": 8.63,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T13:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.73,
+    "ambientTemperature": 25.57,
+    "internalTemperature": 3.33,
+    "powerConsumption": 73.31,
+    "internal_temperature": 7.8,
+    "temperature_duration": 4.89
+  },
+  {
+    "timestamp": "2025-04-11T13:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.94,
+    "internalTemperature": 4.0,
+    "powerConsumption": 57.56,
+    "internal_temperature": 3.96,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T13:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.74,
+    "internalTemperature": 7.09,
+    "powerConsumption": 60.57,
+    "internal_temperature": 6.5,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T13:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.79,
+    "ambientTemperature": 25.3,
+    "internalTemperature": 6.65,
+    "powerConsumption": 69.98,
+    "internal_temperature": 10.58,
+    "temperature_duration": 4.12
+  },
+  {
+    "timestamp": "2025-04-11T13:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.31,
+    "internalTemperature": 3.84,
+    "powerConsumption": 58.36,
+    "internal_temperature": 4.19,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T13:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.13,
+    "ambientTemperature": 18.14,
+    "internalTemperature": 4.52,
+    "powerConsumption": 73.5,
+    "internal_temperature": 8.15,
+    "temperature_duration": 4.65
+  },
+  {
+    "timestamp": "2025-04-11T13:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.07,
+    "internalTemperature": 5.19,
+    "powerConsumption": 59.6,
+    "internal_temperature": 4.74,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T14:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.6,
+    "ambientTemperature": 23.66,
+    "internalTemperature": 3.07,
+    "powerConsumption": 66.83,
+    "internal_temperature": 4.01,
+    "temperature_duration": 2.04
+  },
+  {
+    "timestamp": "2025-04-11T14:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.5,
+    "ambientTemperature": 20.14,
+    "internalTemperature": 6.16,
+    "powerConsumption": 70.53,
+    "internal_temperature": 9.08,
+    "temperature_duration": 3.2
+  },
+  {
+    "timestamp": "2025-04-11T14:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.33,
+    "internalTemperature": 6.9,
+    "powerConsumption": 61.74,
+    "internal_temperature": 6.37,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T14:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.48,
+    "ambientTemperature": 19.62,
+    "internalTemperature": 4.37,
+    "powerConsumption": 63.62,
+    "internal_temperature": 5.01,
+    "temperature_duration": 1.19
+  },
+  {
+    "timestamp": "2025-04-11T14:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.59,
+    "internalTemperature": 5.57,
+    "powerConsumption": 60.85,
+    "internal_temperature": 5.02,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T14:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.31,
+    "ambientTemperature": 18.32,
+    "internalTemperature": 2.8,
+    "powerConsumption": 67.34,
+    "internal_temperature": 5.87,
+    "temperature_duration": 3.52
+  },
+  {
+    "timestamp": "2025-04-11T14:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.53,
+    "ambientTemperature": 23.13,
+    "internalTemperature": 7.02,
+    "powerConsumption": 68.74,
+    "internal_temperature": 11.73,
+    "temperature_duration": 4.01
+  },
+  {
+    "timestamp": "2025-04-11T14:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.67,
+    "internalTemperature": 6.13,
+    "powerConsumption": 58.65,
+    "internal_temperature": 6.55,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T14:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.44,
+    "internalTemperature": 5.18,
+    "powerConsumption": 58.81,
+    "internal_temperature": 4.53,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T14:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.54,
+    "internalTemperature": 4.17,
+    "powerConsumption": 62.96,
+    "internal_temperature": 3.35,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T14:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.15,
+    "internalTemperature": 2.97,
+    "powerConsumption": 61.08,
+    "internal_temperature": 2.96,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T14:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.63,
+    "internalTemperature": 3.95,
+    "powerConsumption": 62.03,
+    "internal_temperature": 4.95,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T15:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.42,
+    "ambientTemperature": 18.56,
+    "internalTemperature": 3.86,
+    "powerConsumption": 65.39,
+    "internal_temperature": 4.76,
+    "temperature_duration": 2.37
+  },
+  {
+    "timestamp": "2025-04-11T15:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.24,
+    "ambientTemperature": 23.62,
+    "internalTemperature": 7.95,
+    "powerConsumption": 67.09,
+    "internal_temperature": 10.24,
+    "temperature_duration": 3.1
+  },
+  {
+    "timestamp": "2025-04-11T15:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.48,
+    "internalTemperature": 2.42,
+    "powerConsumption": 58.62,
+    "internal_temperature": 3.01,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T15:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.55,
+    "internalTemperature": 2.03,
+    "powerConsumption": 57.38,
+    "internal_temperature": 1.64,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T15:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.99,
+    "ambientTemperature": 18.7,
+    "internalTemperature": 6.51,
+    "powerConsumption": 60.4,
+    "internal_temperature": 7.4,
+    "temperature_duration": 1.8
+  },
+  {
+    "timestamp": "2025-04-11T15:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.62,
+    "internalTemperature": 2.56,
+    "powerConsumption": 60.72,
+    "internal_temperature": 3.34,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T15:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.75,
+    "ambientTemperature": 24.09,
+    "internalTemperature": 7.27,
+    "powerConsumption": 73.58,
+    "internal_temperature": 10.54,
+    "temperature_duration": 4.1
+  },
+  {
+    "timestamp": "2025-04-11T15:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.2,
+    "ambientTemperature": 23.83,
+    "internalTemperature": 7.84,
+    "powerConsumption": 65.44,
+    "internal_temperature": 10.26,
+    "temperature_duration": 2.28
+  },
+  {
+    "timestamp": "2025-04-11T15:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.1,
+    "ambientTemperature": 26.47,
+    "internalTemperature": 5.92,
+    "powerConsumption": 68.08,
+    "internal_temperature": 7.39,
+    "temperature_duration": 2.64
+  },
+  {
+    "timestamp": "2025-04-11T15:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.96,
+    "internalTemperature": 2.52,
+    "powerConsumption": 60.15,
+    "internal_temperature": 1.53,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T15:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.97,
+    "internalTemperature": 5.48,
+    "powerConsumption": 58.66,
+    "internal_temperature": 5.23,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T15:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.57,
+    "ambientTemperature": 21.33,
+    "internalTemperature": 2.89,
+    "powerConsumption": 63.56,
+    "internal_temperature": 3.67,
+    "temperature_duration": 1.63
+  },
+  {
+    "timestamp": "2025-04-11T16:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.24,
+    "ambientTemperature": 23.22,
+    "internalTemperature": 5.08,
+    "powerConsumption": 61.93,
+    "internal_temperature": 5.47,
+    "temperature_duration": 1.1
+  },
+  {
+    "timestamp": "2025-04-11T16:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.79,
+    "ambientTemperature": 26.56,
+    "internalTemperature": 6.85,
+    "powerConsumption": 74.52,
+    "internal_temperature": 10.59,
+    "temperature_duration": 4.12
+  },
+  {
+    "timestamp": "2025-04-11T16:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.25,
+    "internalTemperature": 6.95,
+    "powerConsumption": 61.65,
+    "internal_temperature": 5.98,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T16:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.06,
+    "ambientTemperature": 21.7,
+    "internalTemperature": 4.78,
+    "powerConsumption": 71.6,
+    "internal_temperature": 9.63,
+    "temperature_duration": 4.22
+  },
+  {
+    "timestamp": "2025-04-11T16:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.98,
+    "ambientTemperature": 26.02,
+    "internalTemperature": 6.9,
+    "powerConsumption": 71.93,
+    "internal_temperature": 10.66,
+    "temperature_duration": 4.59
+  },
+  {
+    "timestamp": "2025-04-11T16:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.92,
+    "ambientTemperature": 20.57,
+    "internalTemperature": 4.49,
+    "powerConsumption": 60.86,
+    "internal_temperature": 4.59,
+    "temperature_duration": 1.37
+  },
+  {
+    "timestamp": "2025-04-11T16:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.09,
+    "ambientTemperature": 25.8,
+    "internalTemperature": 6.97,
+    "powerConsumption": 65.16,
+    "internal_temperature": 7.85,
+    "temperature_duration": 1.84
+  },
+  {
+    "timestamp": "2025-04-11T16:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.59,
+    "ambientTemperature": 22.3,
+    "internalTemperature": 2.72,
+    "powerConsumption": 71.62,
+    "internal_temperature": 7.0,
+    "temperature_duration": 4.04
+  },
+  {
+    "timestamp": "2025-04-11T16:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.03,
+    "internalTemperature": 5.9,
+    "powerConsumption": 60.25,
+    "internal_temperature": 6.28,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T16:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.69,
+    "internalTemperature": 5.69,
+    "powerConsumption": 61.92,
+    "internal_temperature": 6.48,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T16:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.16,
+    "ambientTemperature": 23.48,
+    "internalTemperature": 5.98,
+    "powerConsumption": 64.0,
+    "internal_temperature": 6.33,
+    "temperature_duration": 1.46
+  },
+  {
+    "timestamp": "2025-04-11T16:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.11,
+    "ambientTemperature": 22.21,
+    "internalTemperature": 6.56,
+    "powerConsumption": 68.64,
+    "internal_temperature": 8.89,
+    "temperature_duration": 2.64
+  },
+  {
+    "timestamp": "2025-04-11T17:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.15,
+    "ambientTemperature": 18.55,
+    "internalTemperature": 4.11,
+    "powerConsumption": 58.21,
+    "internal_temperature": 3.6,
+    "temperature_duration": 1.06
+  },
+  {
+    "timestamp": "2025-04-11T17:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.56,
+    "internalTemperature": 3.73,
+    "powerConsumption": 60.71,
+    "internal_temperature": 4.15,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T17:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.11,
+    "internalTemperature": 4.9,
+    "powerConsumption": 62.4,
+    "internal_temperature": 4.3,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T17:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.77,
+    "ambientTemperature": 18.33,
+    "internalTemperature": 6.02,
+    "powerConsumption": 61.2,
+    "internal_temperature": 7.09,
+    "temperature_duration": 1.71
+  },
+  {
+    "timestamp": "2025-04-11T17:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.6,
+    "internalTemperature": 2.87,
+    "powerConsumption": 58.1,
+    "internal_temperature": 3.21,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T17:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.33,
+    "ambientTemperature": 22.53,
+    "internalTemperature": 7.21,
+    "powerConsumption": 63.56,
+    "internal_temperature": 8.72,
+    "temperature_duration": 1.53
+  },
+  {
+    "timestamp": "2025-04-11T17:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.19,
+    "ambientTemperature": 26.8,
+    "internalTemperature": 7.48,
+    "powerConsumption": 62.88,
+    "internal_temperature": 8.57,
+    "temperature_duration": 1.48
+  },
+  {
+    "timestamp": "2025-04-11T17:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.01,
+    "internalTemperature": 2.61,
+    "powerConsumption": 57.63,
+    "internal_temperature": 1.93,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T17:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.41,
+    "ambientTemperature": 24.02,
+    "internalTemperature": 5.13,
+    "powerConsumption": 66.16,
+    "internal_temperature": 5.38,
+    "temperature_duration": 1.96
+  },
+  {
+    "timestamp": "2025-04-11T17:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.73,
+    "ambientTemperature": 27.54,
+    "internalTemperature": 5.56,
+    "powerConsumption": 75.15,
+    "internal_temperature": 9.36,
+    "temperature_duration": 4.49
+  },
+  {
+    "timestamp": "2025-04-11T17:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.19,
+    "ambientTemperature": 18.59,
+    "internalTemperature": 5.26,
+    "powerConsumption": 66.08,
+    "internal_temperature": 8.85,
+    "temperature_duration": 3.08
+  },
+  {
+    "timestamp": "2025-04-11T17:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.6,
+    "ambientTemperature": 21.74,
+    "internalTemperature": 2.7,
+    "powerConsumption": 64.58,
+    "internal_temperature": 3.29,
+    "temperature_duration": 1.64
+  },
+  {
+    "timestamp": "2025-04-11T18:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.16,
+    "internalTemperature": 2.58,
+    "powerConsumption": 62.89,
+    "internal_temperature": 1.78,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.84,
+    "internalTemperature": 5.15,
+    "powerConsumption": 60.89,
+    "internal_temperature": 4.86,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.04,
+    "ambientTemperature": 26.22,
+    "internalTemperature": 5.16,
+    "powerConsumption": 74.66,
+    "internal_temperature": 10.53,
+    "temperature_duration": 4.62
+  },
+  {
+    "timestamp": "2025-04-11T18:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.81,
+    "internalTemperature": 3.57,
+    "powerConsumption": 62.65,
+    "internal_temperature": 3.53,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.85,
+    "internalTemperature": 6.44,
+    "powerConsumption": 58.68,
+    "internal_temperature": 7.27,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.05,
+    "ambientTemperature": 27.05,
+    "internalTemperature": 5.8,
+    "powerConsumption": 57.22,
+    "internal_temperature": 6.15,
+    "temperature_duration": 1.02
+  },
+  {
+    "timestamp": "2025-04-11T18:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.9,
+    "internalTemperature": 3.44,
+    "powerConsumption": 61.81,
+    "internal_temperature": 2.57,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.34,
+    "internalTemperature": 6.59,
+    "powerConsumption": 61.03,
+    "internal_temperature": 5.85,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.13,
+    "internalTemperature": 5.24,
+    "powerConsumption": 58.43,
+    "internal_temperature": 6.14,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.06,
+    "ambientTemperature": 26.4,
+    "internalTemperature": 7.67,
+    "powerConsumption": 68.61,
+    "internal_temperature": 9.08,
+    "temperature_duration": 2.62
+  },
+  {
+    "timestamp": "2025-04-11T18:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.32,
+    "internalTemperature": 5.25,
+    "powerConsumption": 60.24,
+    "internal_temperature": 4.33,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T18:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.02,
+    "internalTemperature": 7.14,
+    "powerConsumption": 62.24,
+    "internal_temperature": 6.63,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.67,
+    "internalTemperature": 4.35,
+    "powerConsumption": 59.39,
+    "internal_temperature": 4.75,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.45,
+    "internalTemperature": 6.1,
+    "powerConsumption": 61.26,
+    "internal_temperature": 6.58,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.66,
+    "ambientTemperature": 19.29,
+    "internalTemperature": 5.31,
+    "powerConsumption": 68.8,
+    "internal_temperature": 8.58,
+    "temperature_duration": 2.86
+  },
+  {
+    "timestamp": "2025-04-11T19:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.96,
+    "internalTemperature": 6.21,
+    "powerConsumption": 58.2,
+    "internal_temperature": 5.97,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.61,
+    "internalTemperature": 3.62,
+    "powerConsumption": 58.01,
+    "internal_temperature": 3.87,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.77,
+    "ambientTemperature": 20.99,
+    "internalTemperature": 4.98,
+    "powerConsumption": 65.4,
+    "internal_temperature": 5.85,
+    "temperature_duration": 1.71
+  },
+  {
+    "timestamp": "2025-04-11T19:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.58,
+    "internalTemperature": 6.53,
+    "powerConsumption": 58.4,
+    "internal_temperature": 7.21,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.27,
+    "internalTemperature": 5.81,
+    "powerConsumption": 58.78,
+    "internal_temperature": 5.77,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.57,
+    "internalTemperature": 7.49,
+    "powerConsumption": 58.15,
+    "internal_temperature": 6.59,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.37,
+    "ambientTemperature": 27.62,
+    "internalTemperature": 3.74,
+    "powerConsumption": 66.18,
+    "internal_temperature": 5.58,
+    "temperature_duration": 2.75
+  },
+  {
+    "timestamp": "2025-04-11T19:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.88,
+    "internalTemperature": 5.13,
+    "powerConsumption": 57.19,
+    "internal_temperature": 5.65,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T19:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.32,
+    "ambientTemperature": 24.86,
+    "internalTemperature": 6.56,
+    "powerConsumption": 67.05,
+    "internal_temperature": 10.28,
+    "temperature_duration": 3.53
+  },
+  {
+    "timestamp": "2025-04-11T20:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.34,
+    "internalTemperature": 4.44,
+    "powerConsumption": 60.3,
+    "internal_temperature": 3.46,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T20:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.02,
+    "internalTemperature": 5.02,
+    "powerConsumption": 57.43,
+    "internal_temperature": 5.97,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T20:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.6,
+    "ambientTemperature": 26.83,
+    "internalTemperature": 7.49,
+    "powerConsumption": 70.53,
+    "internal_temperature": 11.45,
+    "temperature_duration": 4.44
+  },
+  {
+    "timestamp": "2025-04-11T20:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.05,
+    "ambientTemperature": 24.7,
+    "internalTemperature": 6.67,
+    "powerConsumption": 68.61,
+    "internal_temperature": 9.32,
+    "temperature_duration": 2.62
+  },
+  {
+    "timestamp": "2025-04-11T20:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.72,
+    "ambientTemperature": 27.5,
+    "internalTemperature": 3.84,
+    "powerConsumption": 70.6,
+    "internal_temperature": 6.98,
+    "temperature_duration": 4.09
+  },
+  {
+    "timestamp": "2025-04-11T20:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.88,
+    "ambientTemperature": 22.18,
+    "internalTemperature": 7.39,
+    "powerConsumption": 76.17,
+    "internal_temperature": 10.84,
+    "temperature_duration": 4.55
+  },
+  {
+    "timestamp": "2025-04-11T20:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.66,
+    "ambientTemperature": 19.02,
+    "internalTemperature": 5.72,
+    "powerConsumption": 59.42,
+    "internal_temperature": 5.61,
+    "temperature_duration": 1.26
+  },
+  {
+    "timestamp": "2025-04-11T20:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.07,
+    "internalTemperature": 7.27,
+    "powerConsumption": 59.43,
+    "internal_temperature": 8.23,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T20:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.49,
+    "internalTemperature": 6.46,
+    "powerConsumption": 59.18,
+    "internal_temperature": 6.68,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T20:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.29,
+    "ambientTemperature": 27.86,
+    "internalTemperature": 5.05,
+    "powerConsumption": 62.53,
+    "internal_temperature": 6.66,
+    "temperature_duration": 1.52
+  },
+  {
+    "timestamp": "2025-04-11T20:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.54,
+    "internalTemperature": 4.84,
+    "powerConsumption": 60.53,
+    "internal_temperature": 5.55,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T20:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.77,
+    "internalTemperature": 7.44,
+    "powerConsumption": 60.47,
+    "internal_temperature": 8.13,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T21:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.48,
+    "ambientTemperature": 19.02,
+    "internalTemperature": 7.45,
+    "powerConsumption": 58.52,
+    "internal_temperature": 8.18,
+    "temperature_duration": 1.19
+  },
+  {
+    "timestamp": "2025-04-11T21:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.61,
+    "ambientTemperature": 26.74,
+    "internalTemperature": 2.21,
+    "powerConsumption": 70.75,
+    "internal_temperature": 5.98,
+    "temperature_duration": 4.04
+  },
+  {
+    "timestamp": "2025-04-11T21:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.24,
+    "internalTemperature": 2.59,
+    "powerConsumption": 59.53,
+    "internal_temperature": 1.69,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T21:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.83,
+    "internalTemperature": 3.11,
+    "powerConsumption": 61.73,
+    "internal_temperature": 3.89,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T21:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.06,
+    "internalTemperature": 5.53,
+    "powerConsumption": 61.83,
+    "internal_temperature": 5.46,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T21:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.81,
+    "ambientTemperature": 26.1,
+    "internalTemperature": 7.79,
+    "powerConsumption": 74.75,
+    "internal_temperature": 12.85,
+    "temperature_duration": 4.92
+  },
+  {
+    "timestamp": "2025-04-11T21:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.58,
+    "internalTemperature": 7.8,
+    "powerConsumption": 59.31,
+    "internal_temperature": 8.26,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T21:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.21,
+    "internalTemperature": 5.56,
+    "powerConsumption": 60.95,
+    "internal_temperature": 6.49,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T21:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.54,
+    "ambientTemperature": 25.3,
+    "internalTemperature": 6.77,
+    "powerConsumption": 64.48,
+    "internal_temperature": 9.19,
+    "temperature_duration": 2.42
+  },
+  {
+    "timestamp": "2025-04-11T21:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.06,
+    "internalTemperature": 7.93,
+    "powerConsumption": 60.8,
+    "internal_temperature": 8.39,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T21:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.94,
+    "ambientTemperature": 19.14,
+    "internalTemperature": 3.62,
+    "powerConsumption": 72.83,
+    "internal_temperature": 7.18,
+    "temperature_duration": 3.78
+  },
+  {
+    "timestamp": "2025-04-11T21:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.66,
+    "internalTemperature": 6.03,
+    "powerConsumption": 62.87,
+    "internal_temperature": 6.04,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T22:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.14,
+    "ambientTemperature": 23.16,
+    "internalTemperature": 3.52,
+    "powerConsumption": 60.36,
+    "internal_temperature": 4.11,
+    "temperature_duration": 1.06
+  },
+  {
+    "timestamp": "2025-04-11T22:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.63,
+    "ambientTemperature": 18.71,
+    "internalTemperature": 6.31,
+    "powerConsumption": 66.82,
+    "internal_temperature": 9.33,
+    "temperature_duration": 2.85
+  },
+  {
+    "timestamp": "2025-04-11T22:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.79,
+    "ambientTemperature": 26.48,
+    "internalTemperature": 2.25,
+    "powerConsumption": 72.49,
+    "internal_temperature": 6.57,
+    "temperature_duration": 4.12
+  },
+  {
+    "timestamp": "2025-04-11T22:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.64,
+    "internalTemperature": 7.25,
+    "powerConsumption": 58.44,
+    "internal_temperature": 6.61,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T22:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.61,
+    "ambientTemperature": 19.39,
+    "internalTemperature": 3.03,
+    "powerConsumption": 63.1,
+    "internal_temperature": 3.02,
+    "temperature_duration": 1.64
+  },
+  {
+    "timestamp": "2025-04-11T22:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.18,
+    "internalTemperature": 4.22,
+    "powerConsumption": 58.81,
+    "internal_temperature": 4.27,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T22:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.68,
+    "ambientTemperature": 23.48,
+    "internalTemperature": 3.66,
+    "powerConsumption": 61.53,
+    "internal_temperature": 4.49,
+    "temperature_duration": 1.27
+  },
+  {
+    "timestamp": "2025-04-11T22:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.19,
+    "internalTemperature": 5.63,
+    "powerConsumption": 60.19,
+    "internal_temperature": 4.76,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T22:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.13,
+    "internalTemperature": 3.21,
+    "powerConsumption": 57.92,
+    "internal_temperature": 4.03,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T22:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.14,
+    "internalTemperature": 5.08,
+    "powerConsumption": 61.72,
+    "internal_temperature": 4.29,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T22:53:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.62,
+    "internalTemperature": 3.31,
+    "powerConsumption": 57.26,
+    "internal_temperature": 3.98,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T22:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.27,
+    "ambientTemperature": 20.51,
+    "internalTemperature": 6.99,
+    "powerConsumption": 67.74,
+    "internal_temperature": 9.75,
+    "temperature_duration": 2.71
+  },
+  {
+    "timestamp": "2025-04-11T23:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.23,
+    "internalTemperature": 5.22,
+    "powerConsumption": 57.48,
+    "internal_temperature": 5.6,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T23:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.69,
+    "internalTemperature": 6.16,
+    "powerConsumption": 57.85,
+    "internal_temperature": 6.76,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T23:13:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.67,
+    "internalTemperature": 4.53,
+    "powerConsumption": 61.23,
+    "internal_temperature": 4.47,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T23:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.59,
+    "ambientTemperature": 19.76,
+    "internalTemperature": 3.5,
+    "powerConsumption": 61.82,
+    "internal_temperature": 3.97,
+    "temperature_duration": 1.24
+  },
+  {
+    "timestamp": "2025-04-11T23:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.92,
+    "ambientTemperature": 25.85,
+    "internalTemperature": 6.39,
+    "powerConsumption": 66.74,
+    "internal_temperature": 8.1,
+    "temperature_duration": 2.17
+  },
+  {
+    "timestamp": "2025-04-11T23:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.55,
+    "ambientTemperature": 23.92,
+    "internalTemperature": 3.57,
+    "powerConsumption": 69.84,
+    "internal_temperature": 7.66,
+    "temperature_duration": 3.62
+  },
+  {
+    "timestamp": "2025-04-11T23:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.6,
+    "internalTemperature": 4.97,
+    "powerConsumption": 59.51,
+    "internal_temperature": 4.78,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T23:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.2,
+    "ambientTemperature": 23.49,
+    "internalTemperature": 5.66,
+    "powerConsumption": 71.7,
+    "internal_temperature": 7.95,
+    "temperature_duration": 3.48
+  },
+  {
+    "timestamp": "2025-04-11T23:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 24.95,
+    "internalTemperature": 6.12,
+    "powerConsumption": 57.94,
+    "internal_temperature": 5.62,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T23:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.8,
+    "internalTemperature": 7.33,
+    "powerConsumption": 61.08,
+    "internal_temperature": 8.15,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-11T23:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 9.97,
+    "ambientTemperature": 27.12,
+    "internalTemperature": 2.27,
+    "powerConsumption": 73.4,
+    "internal_temperature": 8.06,
+    "temperature_duration": 4.99
+  },
+  {
+    "timestamp": "2025-04-11T23:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.49,
+    "ambientTemperature": 25.68,
+    "internalTemperature": 6.43,
+    "powerConsumption": 75.7,
+    "internal_temperature": 10.42,
+    "temperature_duration": 4.4
+  },
+  {
+    "timestamp": "2025-04-12T00:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.88,
+    "internalTemperature": 6.5,
+    "powerConsumption": 59.35,
+    "internal_temperature": 6.34,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T00:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.72,
+    "ambientTemperature": 18.78,
+    "internalTemperature": 5.67,
+    "powerConsumption": 74.18,
+    "internal_temperature": 9.02,
+    "temperature_duration": 4.09
+  },
+  {
+    "timestamp": "2025-04-12T00:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.2,
+    "ambientTemperature": 27.25,
+    "internalTemperature": 5.03,
+    "powerConsumption": 61.12,
+    "internal_temperature": 5.47,
+    "temperature_duration": 1.48
+  },
+  {
+    "timestamp": "2025-04-12T00:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.47,
+    "ambientTemperature": 20.57,
+    "internalTemperature": 2.24,
+    "powerConsumption": 70.74,
+    "internal_temperature": 6.3,
+    "temperature_duration": 3.99
+  },
+  {
+    "timestamp": "2025-04-12T00:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.3,
+    "ambientTemperature": 26.29,
+    "internalTemperature": 5.89,
+    "powerConsumption": 61.8,
+    "internal_temperature": 6.73,
+    "temperature_duration": 1.52
+  },
+  {
+    "timestamp": "2025-04-12T00:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.25,
+    "ambientTemperature": 22.49,
+    "internalTemperature": 3.98,
+    "powerConsumption": 59.67,
+    "internal_temperature": 4.58,
+    "temperature_duration": 1.5
+  },
+  {
+    "timestamp": "2025-04-12T00:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.45,
+    "internalTemperature": 3.96,
+    "powerConsumption": 60.32,
+    "internal_temperature": 4.87,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T00:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.78,
+    "internalTemperature": 6.72,
+    "powerConsumption": 60.27,
+    "internal_temperature": 6.13,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T00:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.58,
+    "ambientTemperature": 25.25,
+    "internalTemperature": 3.57,
+    "powerConsumption": 61.87,
+    "internal_temperature": 4.53,
+    "temperature_duration": 1.23
+  },
+  {
+    "timestamp": "2025-04-12T00:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 18.47,
+    "internalTemperature": 4.57,
+    "powerConsumption": 57.73,
+    "internal_temperature": 5.38,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T00:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.28,
+    "ambientTemperature": 22.38,
+    "internalTemperature": 6.33,
+    "powerConsumption": 70.76,
+    "internal_temperature": 9.86,
+    "temperature_duration": 4.31
+  },
+  {
+    "timestamp": "2025-04-12T00:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.6,
+    "internalTemperature": 6.95,
+    "powerConsumption": 58.34,
+    "internal_temperature": 7.0,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T01:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.01,
+    "internalTemperature": 7.88,
+    "powerConsumption": 61.47,
+    "internal_temperature": 8.02,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T01:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.69,
+    "internalTemperature": 4.84,
+    "powerConsumption": 61.93,
+    "internal_temperature": 4.61,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T01:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.97,
+    "ambientTemperature": 22.2,
+    "internalTemperature": 6.2,
+    "powerConsumption": 68.49,
+    "internal_temperature": 9.79,
+    "temperature_duration": 3.39
+  },
+  {
+    "timestamp": "2025-04-12T01:18:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.68,
+    "ambientTemperature": 21.11,
+    "internalTemperature": 3.06,
+    "powerConsumption": 68.1,
+    "internal_temperature": 5.51,
+    "temperature_duration": 3.67
+  },
+  {
+    "timestamp": "2025-04-12T01:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.28,
+    "ambientTemperature": 25.6,
+    "internalTemperature": 5.34,
+    "powerConsumption": 64.59,
+    "internal_temperature": 6.42,
+    "temperature_duration": 1.51
+  },
+  {
+    "timestamp": "2025-04-12T01:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.83,
+    "internalTemperature": 4.95,
+    "powerConsumption": 62.77,
+    "internal_temperature": 5.56,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T01:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 22.35,
+    "internalTemperature": 2.51,
+    "powerConsumption": 57.44,
+    "internal_temperature": 2.6,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T01:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.01,
+    "ambientTemperature": 26.91,
+    "internalTemperature": 4.78,
+    "powerConsumption": 64.04,
+    "internal_temperature": 5.75,
+    "temperature_duration": 1.4
+  },
+  {
+    "timestamp": "2025-04-12T01:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.4,
+    "ambientTemperature": 18.5,
+    "internalTemperature": 7.07,
+    "powerConsumption": 61.75,
+    "internal_temperature": 6.31,
+    "temperature_duration": 1.16
+  },
+  {
+    "timestamp": "2025-04-12T01:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 8.23,
+    "ambientTemperature": 22.85,
+    "internalTemperature": 4.86,
+    "powerConsumption": 71.3,
+    "internal_temperature": 9.46,
+    "temperature_duration": 4.29
+  },
+  {
+    "timestamp": "2025-04-12T01:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.07,
+    "ambientTemperature": 24.35,
+    "internalTemperature": 4.13,
+    "powerConsumption": 57.71,
+    "internal_temperature": 4.41,
+    "temperature_duration": 1.03
+  },
+  {
+    "timestamp": "2025-04-12T01:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.52,
+    "ambientTemperature": 21.83,
+    "internalTemperature": 4.99,
+    "powerConsumption": 66.98,
+    "internal_temperature": 8.41,
+    "temperature_duration": 3.21
+  },
+  {
+    "timestamp": "2025-04-12T02:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.49,
+    "internalTemperature": 2.22,
+    "powerConsumption": 59.81,
+    "internal_temperature": 2.61,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T02:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.47,
+    "internalTemperature": 7.66,
+    "powerConsumption": 61.53,
+    "internal_temperature": 7.53,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T02:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 6.45,
+    "ambientTemperature": 26.31,
+    "internalTemperature": 4.05,
+    "powerConsumption": 67.39,
+    "internal_temperature": 7.33,
+    "temperature_duration": 3.58
+  },
+  {
+    "timestamp": "2025-04-12T02:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.68,
+    "internalTemperature": 4.4,
+    "powerConsumption": 58.08,
+    "internal_temperature": 3.64,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T02:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.75,
+    "ambientTemperature": 26.78,
+    "internalTemperature": 4.07,
+    "powerConsumption": 68.92,
+    "internal_temperature": 6.01,
+    "temperature_duration": 2.9
+  },
+  {
+    "timestamp": "2025-04-12T02:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.97,
+    "ambientTemperature": 26.44,
+    "internalTemperature": 4.66,
+    "powerConsumption": 67.43,
+    "internal_temperature": 5.76,
+    "temperature_duration": 2.59
+  },
+  {
+    "timestamp": "2025-04-12T02:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.55,
+    "ambientTemperature": 22.5,
+    "internalTemperature": 6.46,
+    "powerConsumption": 64.45,
+    "internal_temperature": 7.4,
+    "temperature_duration": 2.02
+  },
+  {
+    "timestamp": "2025-04-12T02:38:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.41,
+    "internalTemperature": 2.42,
+    "powerConsumption": 60.6,
+    "internal_temperature": 2.9,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T02:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.69,
+    "internalTemperature": 2.26,
+    "powerConsumption": 58.38,
+    "internal_temperature": 1.64,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T02:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.12,
+    "internalTemperature": 5.83,
+    "powerConsumption": 59.98,
+    "internal_temperature": 5.51,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T02:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 2.33,
+    "ambientTemperature": 19.3,
+    "internalTemperature": 6.31,
+    "powerConsumption": 64.43,
+    "internal_temperature": 6.87,
+    "temperature_duration": 1.93
+  },
+  {
+    "timestamp": "2025-04-12T02:58:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 21.3,
+    "internalTemperature": 6.82,
+    "powerConsumption": 62.0,
+    "internal_temperature": 7.73,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T03:03:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.97,
+    "ambientTemperature": 26.82,
+    "internalTemperature": 3.27,
+    "powerConsumption": 64.2,
+    "internal_temperature": 4.35,
+    "temperature_duration": 2.59
+  },
+  {
+    "timestamp": "2025-04-12T03:08:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.53,
+    "ambientTemperature": 18.81,
+    "internalTemperature": 4.27,
+    "powerConsumption": 64.59,
+    "internal_temperature": 4.21,
+    "temperature_duration": 1.61
+  },
+  {
+    "timestamp": "2025-04-12T03:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.2,
+    "ambientTemperature": 20.05,
+    "internalTemperature": 2.57,
+    "powerConsumption": 67.47,
+    "internal_temperature": 4.54,
+    "temperature_duration": 2.28
+  },
+  {
+    "timestamp": "2025-04-12T03:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 26.67,
+    "internalTemperature": 3.82,
+    "powerConsumption": 59.72,
+    "internal_temperature": 4.21,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T03:23:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.28,
+    "internalTemperature": 3.69,
+    "powerConsumption": 60.82,
+    "internal_temperature": 4.15,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T03:28:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.05,
+    "ambientTemperature": 24.94,
+    "internalTemperature": 5.27,
+    "powerConsumption": 57.73,
+    "internal_temperature": 5.31,
+    "temperature_duration": 1.02
+  },
+  {
+    "timestamp": "2025-04-12T03:33:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 20.8,
+    "internalTemperature": 3.75,
+    "powerConsumption": 57.4,
+    "internal_temperature": 3.93,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T03:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.81,
+    "ambientTemperature": 26.87,
+    "internalTemperature": 3.1,
+    "powerConsumption": 59.85,
+    "internal_temperature": 2.57,
+    "temperature_duration": 1.32
+  },
+  {
+    "timestamp": "2025-04-12T03:43:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.72,
+    "ambientTemperature": 25.2,
+    "internalTemperature": 4.91,
+    "powerConsumption": 73.13,
+    "internal_temperature": 8.28,
+    "temperature_duration": 4.09
+  },
+  {
+    "timestamp": "2025-04-12T03:48:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 23.11,
+    "internalTemperature": 7.89,
+    "powerConsumption": 57.56,
+    "internal_temperature": 8.56,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T03:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 1.22,
+    "ambientTemperature": 26.92,
+    "internalTemperature": 4.96,
+    "powerConsumption": 60.41,
+    "internal_temperature": 5.99,
+    "temperature_duration": 1.49
+  },
+  {
+    "timestamp": "2025-04-12T03:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 4.01,
+    "ambientTemperature": 27.87,
+    "internalTemperature": 7.16,
+    "powerConsumption": 64.02,
+    "internal_temperature": 10.12,
+    "temperature_duration": 2.6
+  },
+  {
+    "timestamp": "2025-04-12T04:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.9,
+    "internalTemperature": 2.78,
+    "powerConsumption": 58.83,
+    "internal_temperature": 2.49,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T04:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.86,
+    "internalTemperature": 2.05,
+    "powerConsumption": 57.84,
+    "internal_temperature": 2.42,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T04:13:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.61,
+    "ambientTemperature": 19.56,
+    "internalTemperature": 6.65,
+    "powerConsumption": 59.31,
+    "internal_temperature": 7.11,
+    "temperature_duration": 1.24
+  },
+  {
+    "timestamp": "2025-04-12T04:18:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.69,
+    "internalTemperature": 3.48,
+    "powerConsumption": 62.31,
+    "internal_temperature": 3.59,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T04:23:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.92,
+    "ambientTemperature": 23.47,
+    "internalTemperature": 4.57,
+    "powerConsumption": 68.28,
+    "internal_temperature": 6.77,
+    "temperature_duration": 3.37
+  },
+  {
+    "timestamp": "2025-04-12T04:28:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.33,
+    "internalTemperature": 7.42,
+    "powerConsumption": 60.65,
+    "internal_temperature": 7.39,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T04:33:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.97,
+    "ambientTemperature": 20.56,
+    "internalTemperature": 5.06,
+    "powerConsumption": 66.91,
+    "internal_temperature": 7.12,
+    "temperature_duration": 2.59
+  },
+  {
+    "timestamp": "2025-04-12T04:38:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 5.48,
+    "ambientTemperature": 19.42,
+    "internalTemperature": 5.8,
+    "powerConsumption": 70.3,
+    "internal_temperature": 8.58,
+    "temperature_duration": 3.19
+  },
+  {
+    "timestamp": "2025-04-12T04:43:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 27.32,
+    "internalTemperature": 7.46,
+    "powerConsumption": 62.19,
+    "internal_temperature": 7.06,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T04:48:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 0.67,
+    "ambientTemperature": 26.98,
+    "internalTemperature": 5.89,
+    "powerConsumption": 61.87,
+    "internal_temperature": 6.69,
+    "temperature_duration": 1.27
+  },
+  {
+    "timestamp": "2025-04-12T04:53:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 3.57,
+    "ambientTemperature": 26.82,
+    "internalTemperature": 5.05,
+    "powerConsumption": 65.14,
+    "internal_temperature": 6.13,
+    "temperature_duration": 2.43
+  },
+  {
+    "timestamp": "2025-04-12T04:58:58.272511",
+    "doorOpen": 1,
+    "door_open_duration": 7.36,
+    "ambientTemperature": 21.68,
+    "internalTemperature": 3.27,
+    "powerConsumption": 70.62,
+    "internal_temperature": 7.92,
+    "temperature_duration": 3.94
+  },
+  {
+    "timestamp": "2025-04-12T05:03:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 25.56,
+    "internalTemperature": 3.13,
+    "powerConsumption": 62.78,
+    "internal_temperature": 3.25,
+    "temperature_duration": 1.0
+  },
+  {
+    "timestamp": "2025-04-12T05:08:58.272511",
+    "doorOpen": 0,
+    "door_open_duration": 0,
+    "ambientTemperature": 19.09,
+    "internalTemperature": 2.21,
+    "powerConsumption": 57.36,
+    "internal_temperature": 2.28,
+    "temperature_duration": 1.0
+  }
+]
