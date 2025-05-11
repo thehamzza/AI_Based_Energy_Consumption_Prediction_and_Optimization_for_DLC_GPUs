@@ -105,18 +105,42 @@ Script: `feature_analysis.py` uses:
 
 📸 **Images:**
 
-- `correlation_heatmap.png`: Visualizes linear dependencies between features.
+- ### 🔍 Correlation Heatmap
+
+This heatmap displays Pearson correlation coefficients between features and targets. Darker shades indicate stronger correlations (positive or negative).
+
+![Correlation Heatmap](v2/feature_analysis_results/correlation_heatmap.png)
 
 - `permutation_importance.png`: Quantifies how much model performance drops if a feature is randomly permuted.
 
-## 💡 SHAP Interpretability – LSTM Model
+---
 
-Script: `shap_lstm_explain.py` produces SHAP explanations for each target variable.
-📸 **Images:**
+### 🔍 Permutation Feature Importance
 
-- `shap_lstm_power.png` → Importance of features on power consumption
-- `shap_lstm_temperature.png` → On temperature prediction
-- `shap_lstm_duration.png` → On temperature duration
+This bar chart illustrates the relative importance of each input feature based on how shuffling its values affects model performance.
+
+![Permutation Importance](v2/feature_analysis_results/permutation_importance.png)
+
+---
+
+### 🔍 SHAP Beeswarm Plots
+
+#### 🧠 SHAP — Power Consumption
+Highlights which features most influence the model's prediction of power usage. Each dot represents a prediction and color encodes feature value.
+
+![SHAP Power](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_power.png)
+
+#### 🧠 SHAP — Temperature
+Visualizes feature impact on core temperature predictions. Strong contributors include ambient temperature and rolling averages.
+
+![SHAP Temperature](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_temperature.png)
+
+#### 🧠 SHAP — Duration
+Analyzes how each feature influences predicted duration of elevated temperature in the device.
+
+![SHAP Duration](v2/feature_analysis_results/shap_lstm_outputs/shap_lstm_duration.png)
+
+---
 
 ## 🌐 API – Live Endpoint Details
 
